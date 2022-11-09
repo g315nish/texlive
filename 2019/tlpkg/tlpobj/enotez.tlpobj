@@ -1,0 +1,27 @@
+name enotez
+category Package
+revision 52225
+shortdesc Support for end-notes
+longdesc The package allows nested endnotes, supports hyperref and
+longdesc provides means for easy customization of the list of notes. The
+longdesc package requires the expl3 bundle and packages from the LaTeX 3
+longdesc 'package set'.
+containersize 7380
+containerchecksum b4755b9cbe6826a0003c524e0c252a90b4e2c66b0c7e63fb6674b4283479f79410a85e27e765bf083e563ab0077489a4883870694c90f35149f4bceb6c17e718
+doccontainersize 459436
+doccontainerchecksum bee202bb9289aaa31cf660f2ec531540128f2523381ecc530c160595a78ec25e5719677543c44ca4a9253360e4dade0c1dcd0ce597071587d26df5a1e7c6bb16
+docfiles size=119
+ texmf-dist/doc/latex/enotez/README details="Readme"
+ texmf-dist/doc/latex/enotez/enotez_en.pdf details="Package documentation"
+ texmf-dist/doc/latex/enotez/enotez_en.tex
+ texmf-dist/doc/latex/enotez/enotez_split_example.tex
+runfiles size=10
+ texmf-dist/tex/latex/enotez/enotez.sty
+catalogue-also endnote endnotes
+catalogue-contact-bugs https://bitbucket.org/cgnieder/enotez/issues
+catalogue-contact-repository https://bitbucket.org/cgnieder/enotez/
+catalogue-ctan /macros/latex/contrib/enotez
+catalogue-date 2019-09-30 19:16:02 +0200
+catalogue-license lppl1.3
+catalogue-topics endnote expl3
+catalogue-version 0.10

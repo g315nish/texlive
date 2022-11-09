@@ -1,0 +1,8 @@
+name bibtexu.win32
+category TLCore
+revision 50254
+shortdesc win32 files of bibtexu
+containersize 515752
+containerchecksum eafb5957fe1ccf8e8d3f2bd99db9cb07d85102b13d79c14c0da9a2fad1e8121352058a742ce7a6a87aa2738d9a5df4d69b0f39d4e41ac8a1546a4899c202fb3c
+binfiles arch=win32 size=325
+ bin/win32/bibtexu.exe

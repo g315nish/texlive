@@ -1,0 +1,28 @@
+name biblatex-publist
+category Package
+revision 50989
+shortdesc BibLaTeX bibliography support for publication lists
+longdesc The package provides a BibLaTeX bibliography style file (*.bbx)
+longdesc for publication lists. The style file draws on BibLaTeX's
+longdesc authoryear style, but provides some extra features often
+longdesc desired for publication lists, such as the omission of the
+longdesc author's own name from author or editor data. At least version
+longdesc 3.4 of biblatex is required.
+containersize 6932
+containerchecksum 9f73dd60d22adc1af2cc87c7fe3cf38b50fcc173a66cd1511a08a37938a0bcacef20ab27995ccc2cf4912d2b74948e417d0209bef93be8bcf49f51a6883778a4
+doccontainersize 327812
+doccontainerchecksum 1899ddf6edeb2ed11417cd90957bd9567041d6c06b43a56d08d618a734d7700e5092dc1e350ed03a08e82f3b2e8759ef8fed8f8933996d1d8a5b7ed5c8becb17
+docfiles size=88
+ texmf-dist/doc/latex/biblatex-publist/README details="Readme"
+ texmf-dist/doc/latex/biblatex-publist/biblatex-publist.pdf details="Package documentation"
+ texmf-dist/doc/latex/biblatex-publist/biblatex-publist.tex
+runfiles size=9
+ texmf-dist/tex/latex/biblatex-publist/publist.bbx
+ texmf-dist/tex/latex/biblatex-publist/publist.cbx
+catalogue-contact-bugs https://github.com/jspitz/biblatex-publist/issues
+catalogue-contact-repository https://github.com/jspitz/biblatex-publist
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-publist
+catalogue-date 2019-04-16 16:26:16 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.16

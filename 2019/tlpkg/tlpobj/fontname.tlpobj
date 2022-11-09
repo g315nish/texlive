@@ -1,0 +1,86 @@
+name fontname
+category Package
+revision 45930
+shortdesc Scheme for naming fonts in TeX
+longdesc The scheme for assigning names is described (in the
+longdesc documentation part of the package), and map files giving the
+longdesc relation between foundry name and 'TeX-name' are also provided.
+containersize 108472
+containerchecksum 42412120cf59a9a3fe284c2d0dfdb0bdc4f8856ef1a2d814644290c772b00ad37f296fb66e83ed306a110602b314f6e7abd482180a0119bdd1dfbaa2233c77d5
+doccontainersize 679580
+doccontainerchecksum b6affbe821e1f127a5dd9962a7d89373108f57391648a15311de802ff555205ae864074d296690ac594377d00af5e4d375989b663c79e01408936c0bf934ea5e
+docfiles size=781
+ texmf-dist/doc/fonts/fontname/8a.html
+ texmf-dist/doc/fonts/fontname/8r.html
+ texmf-dist/doc/fonts/fontname/Adobe-fonts.html
+ texmf-dist/doc/fonts/fontname/Apple-fonts.html
+ texmf-dist/doc/fonts/fontname/Bitstream-fonts.html
+ texmf-dist/doc/fonts/fontname/ChangeLog
+ texmf-dist/doc/fonts/fontname/DTC-fonts.html
+ texmf-dist/doc/fonts/fontname/Encodings.html
+ texmf-dist/doc/fonts/fontname/Filenames-for-fonts.html
+ texmf-dist/doc/fonts/fontname/Font-legalities.html
+ texmf-dist/doc/fonts/fontname/Font-name-lists.html
+ texmf-dist/doc/fonts/fontname/History.html
+ texmf-dist/doc/fonts/fontname/ITC-fonts.html
+ texmf-dist/doc/fonts/fontname/Introduction.html
+ texmf-dist/doc/fonts/fontname/Linotype-fonts.html
+ texmf-dist/doc/fonts/fontname/Long-names.html
+ texmf-dist/doc/fonts/fontname/Long-naming-scheme.html
+ texmf-dist/doc/fonts/fontname/Makefile
+ texmf-dist/doc/fonts/fontname/Monotype-fonts.html
+ texmf-dist/doc/fonts/fontname/Name-mapping-file.html
+ texmf-dist/doc/fonts/fontname/References.html
+ texmf-dist/doc/fonts/fontname/Standard-PostScript-fonts.html
+ texmf-dist/doc/fonts/fontname/Suppliers.html
+ texmf-dist/doc/fonts/fontname/Typefaces.html
+ texmf-dist/doc/fonts/fontname/URW-fonts.html
+ texmf-dist/doc/fonts/fontname/Variants.html
+ texmf-dist/doc/fonts/fontname/Weights.html
+ texmf-dist/doc/fonts/fontname/Widths.html
+ texmf-dist/doc/fonts/fontname/bitstrea.aka
+ texmf-dist/doc/fonts/fontname/cork.html
+ texmf-dist/doc/fonts/fontname/dvips.html
+ texmf-dist/doc/fonts/fontname/fontname.aux
+ texmf-dist/doc/fonts/fontname/fontname.cp
+ texmf-dist/doc/fonts/fontname/fontname.html details="Outline of the mapping scheme (HTML)"
+ texmf-dist/doc/fonts/fontname/fontname.pdf details="Outline of the mapping scheme (PDF)"
+ texmf-dist/doc/fonts/fontname/fontname.texi
+ texmf-dist/doc/fonts/fontname/fontname.toc
+ texmf-dist/doc/fonts/fontname/index.html
+ texmf-dist/doc/fonts/fontname/texmext.html
+ texmf-dist/doc/fonts/fontname/texmital.html
+ texmf-dist/doc/fonts/fontname/texmsym.html
+ texmf-dist/doc/fonts/fontname/texnansi.html
+ texmf-dist/doc/fonts/fontname/texnansx.html
+ texmf-dist/doc/fonts/fontname/xl2.html
+ texmf-dist/doc/fonts/fontname/xt2.html
+ texmf-dist/doc/info/fontname.info
+runfiles size=377
+ texmf-dist/fonts/map/fontname/adobe.map
+ texmf-dist/fonts/map/fontname/apple.map
+ texmf-dist/fonts/map/fontname/bitstrea.map
+ texmf-dist/fonts/map/fontname/dtc.map
+ texmf-dist/fonts/map/fontname/itc.map
+ texmf-dist/fonts/map/fontname/linot-cd.map
+ texmf-dist/fonts/map/fontname/linotype-cd.map
+ texmf-dist/fonts/map/fontname/linotype.map
+ texmf-dist/fonts/map/fontname/monotype.map
+ texmf-dist/fonts/map/fontname/skey1250.map
+ texmf-dist/fonts/map/fontname/skey1555.map
+ texmf-dist/fonts/map/fontname/softkey-1250.map
+ texmf-dist/fonts/map/fontname/softkey-1555.map
+ texmf-dist/fonts/map/fontname/softkey.map
+ texmf-dist/fonts/map/fontname/special.map
+ texmf-dist/fonts/map/fontname/supplier.map
+ texmf-dist/fonts/map/fontname/texfonts.map
+ texmf-dist/fonts/map/fontname/typeface.map
+ texmf-dist/fonts/map/fontname/urw.map
+ texmf-dist/fonts/map/fontname/variant.map
+ texmf-dist/fonts/map/fontname/weight.map
+ texmf-dist/fonts/map/fontname/width.map
+ texmf-dist/fonts/map/fontname/yandy.map
+catalogue-ctan /info/fontname
+catalogue-date 2016-11-04 04:57:17 +0100
+catalogue-license gpl
+catalogue-topics font-doc

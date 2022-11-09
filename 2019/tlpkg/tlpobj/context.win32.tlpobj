@@ -1,0 +1,16 @@
+name context.win32
+category Package
+revision 50573
+shortdesc win32 files of context
+containersize 133424
+containerchecksum 17e61335ab75e1a97ae9f618e09059ba603bcffc557c59d146bf812649118040d981925891c6ea96b173df8052e1e05e3108cdb3267a0e360aae8a70d43bbc8a
+binfiles arch=win32 size=184
+ bin/win32/context.exe
+ bin/win32/contextjit.exe
+ bin/win32/luatools.exe
+ bin/win32/mtxrun.dll
+ bin/win32/mtxrun.exe
+ bin/win32/mtxrun.lua
+ bin/win32/mtxrunjit.exe
+ bin/win32/texexec.exe
+ bin/win32/texmfstart.exe

@@ -1,0 +1,36 @@
+name bath-bst
+category Package
+revision 51595
+shortdesc Harvard referencing style as recommended by the University of Bath Library
+longdesc This package provides a BibTeX style to format reference lists
+longdesc in the Harvard style recommended by the University of Bath
+longdesc Library. It should be used in conjunction with natbib for
+longdesc citations.
+containersize 7724
+containerchecksum af48f1407a950028fe68ebda82db1091c511ad5763416d60dc7df4ce6ddc080a4a0eaa9cf3385a27ecd9586fece07ee02f78e1f8df9446697bcb9c88aa9b974a
+doccontainersize 737612
+doccontainerchecksum 4738ae6f96c75f9cfa222ccfc8acf300c5844d19a1888ff23c52f6f7dd4d85bb0065728734fc6a43ed7fae507e34cd40c4a2b7240b4644adff9eeb05e6118e4e
+docfiles size=216
+ texmf-dist/doc/bibtex/bath-bst/README.md details="Readme"
+ texmf-dist/doc/bibtex/bath-bst/bath-bst-v1.bib
+ texmf-dist/doc/bibtex/bath-bst/bath-bst-v1.pdf details="Documentation of version 1 style"
+ texmf-dist/doc/bibtex/bath-bst/bath-bst-v1.tex
+ texmf-dist/doc/bibtex/bath-bst/bath-bst.bib
+ texmf-dist/doc/bibtex/bath-bst/bath-bst.pdf details="Package documentation"
+srccontainersize 31604
+srccontainerchecksum 50ace871f9adb958618d128d48fc204a188a6c94cf4bc986b3605518050df19c990fb818f6cfcafedda868c7254d1bf1e05f51e075754e4e2dfb8528fcf45f20
+srcfiles size=40
+ texmf-dist/source/bibtex/bath-bst/Makefile
+ texmf-dist/source/bibtex/bath-bst/bath-bst.dtx
+ texmf-dist/source/bibtex/bath-bst/bath-bst.ins
+runfiles size=25
+ texmf-dist/bibtex/bst/bath-bst/bath.bst
+ texmf-dist/bibtex/bst/bath-bst/bathx.bst
+catalogue-also biblatex-bath
+catalogue-contact-bugs https://github.com/alex-ball/bathbib/issues
+catalogue-contact-home https://github.com/alex-ball/bathbib
+catalogue-ctan /biblio/bibtex/contrib/bath-bst
+catalogue-date 2019-07-10 19:15:05 +0200
+catalogue-license lppl1.3c
+catalogue-topics bibtex-sty
+catalogue-version 3.0

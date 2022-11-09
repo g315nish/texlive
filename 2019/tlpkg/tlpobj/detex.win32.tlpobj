@@ -1,0 +1,8 @@
+name detex.win32
+category TLCore
+revision 50155
+shortdesc win32 files of detex
+containersize 17224
+containerchecksum dbe3b716eadbea7a6bbc666d621a4142eba83341c06862d5b14ebef9078e27c3c60f92bf3dd9e9374a2423150e3eaafdd16e60a12548df9237300c8ec20b3781
+binfiles arch=win32 size=10
+ bin/win32/detex.exe

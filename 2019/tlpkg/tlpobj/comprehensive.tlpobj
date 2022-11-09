@@ -1,0 +1,47 @@
+name comprehensive
+category Package
+revision 46270
+shortdesc Symbols accessible from LaTeX
+longdesc Over 14000 symbols are listed as a set of tables. The tables of
+longdesc symbols are ordered in a logical way (the document begins with
+longdesc a 'frequently requested symbols' list), the aim being to make
+longdesc the document a convenient way of looking up symbols.
+containersize 520
+containerchecksum 8c34a44188cb3dd286f0f841cbfd2d4760bee9be75c814041ea7d2f9ffef39991f018fce276a440f88ca8771eca0c1baa9884d2a7f60afbb788f63220b51c3e7
+doccontainersize 16552280
+doccontainerchecksum e262b3996a745024d2cca39d62ba35e00e9b6a8ead58ae1c89c5d8949744cf8a084021beba8c611ef6b2726447919241e0f2f6cbbb21e6de4d6c15af7c7b5ea4
+docfiles size=4800
+ texmf-dist/doc/latex/comprehensive/README details="Package README"
+ texmf-dist/doc/latex/comprehensive/README.TEXLIVE
+ texmf-dist/doc/latex/comprehensive/SYMLIST details="Plain text list of symbol commands"
+ texmf-dist/doc/latex/comprehensive/rawtables-a4.pdf
+ texmf-dist/doc/latex/comprehensive/source/Makefile
+ texmf-dist/doc/latex/comprehensive/source/fakeallrunes.sty
+ texmf-dist/doc/latex/comprehensive/source/fakearcs.sty
+ texmf-dist/doc/latex/comprehensive/source/fakearevmath.sty
+ texmf-dist/doc/latex/comprehensive/source/fakedozenal.sty
+ texmf-dist/doc/latex/comprehensive/source/fakego.sty
+ texmf-dist/doc/latex/comprehensive/source/fakelatexsym.sty
+ texmf-dist/doc/latex/comprehensive/source/fakemusixtex.sty
+ texmf-dist/doc/latex/comprehensive/source/fakeold-arrows.sty
+ texmf-dist/doc/latex/comprehensive/source/lightbulb.eps
+ texmf-dist/doc/latex/comprehensive/source/lightbulb.map
+ texmf-dist/doc/latex/comprehensive/source/lightbulb.mf
+ texmf-dist/doc/latex/comprehensive/source/lightbulb10.mf
+ texmf-dist/doc/latex/comprehensive/source/lightbulb10.pfb
+ texmf-dist/doc/latex/comprehensive/source/makefakeMnSymbol
+ texmf-dist/doc/latex/comprehensive/source/makefakeboisik
+ texmf-dist/doc/latex/comprehensive/source/makefakefdsymbol
+ texmf-dist/doc/latex/comprehensive/source/makefakestarfont
+ texmf-dist/doc/latex/comprehensive/source/makefakestix
+ texmf-dist/doc/latex/comprehensive/source/makerawtables
+ texmf-dist/doc/latex/comprehensive/source/symbols.ist
+ texmf-dist/doc/latex/comprehensive/source/symbols.tex
+ texmf-dist/doc/latex/comprehensive/source/teubner-subset.sty
+ texmf-dist/doc/latex/comprehensive/source/unicode2eps.pe
+ texmf-dist/doc/latex/comprehensive/symbols-a4.pdf details="The document (for A4 paper)"
+catalogue-ctan /info/symbols/comprehensive
+catalogue-date 2017-03-07 16:00:12 +0100
+catalogue-license lppl1.3
+catalogue-topics font-index ref-latex
+catalogue-version 12.3

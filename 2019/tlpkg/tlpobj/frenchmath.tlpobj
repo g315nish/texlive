@@ -1,0 +1,29 @@
+name frenchmath
+category Package
+revision 51192
+shortdesc Typesetting mathematics according to French rules
+longdesc The package provides: capital letters in upright shape for
+longdesc mathematical mode according to French rule (package option),
+longdesc correct spacing after commas and before a semicolon in math
+longdesc mode, some useful macros and aliases for symbols used in
+longdesc France: \infeg, \supeg, \paral, ... several macros for writing
+longdesc french operator names like pgcd, ppcm, Card, rg, Vect, ...
+containersize 1808
+containerchecksum 1102ab998250a36d6d93aac7c673628eacf8b1abd203d91989922599ec6dae58439ec2700e40eade5b0ee1666a68a30d94f89d3a225082a6273ccd63f61fb586
+doccontainersize 477204
+doccontainerchecksum 622cbf8f1149c53f240036e2cf2d6245d6870ea24f9af6e1883e7fed2f1001f38227176156e8a33c9d9c07414b1accf1a924fbf7248e91903d764fb85d277bdb
+docfiles size=118
+ texmf-dist/doc/latex/frenchmath/README.md details="Readme"
+ texmf-dist/doc/latex/frenchmath/frenchmath.pdf details="Package documentation" language="fr"
+srccontainersize 7948
+srccontainerchecksum f41712d3bd58290fbe205001e9fb531a147debea4b93aeac3b9831cb3bc8edfc7d1364bee575c750aacfe1db8632c357a36fc5afb003a7c895108146a1ab3b7e
+srcfiles size=6
+ texmf-dist/source/latex/frenchmath/frenchmath.dtx
+ texmf-dist/source/latex/frenchmath/frenchmath.ins
+runfiles size=1
+ texmf-dist/tex/latex/frenchmath/frenchmath.sty
+catalogue-ctan /macros/latex/contrib/frenchmath
+catalogue-date 2019-05-22 19:53:08 +0200
+catalogue-license lppl1.3
+catalogue-topics maths french
+catalogue-version 1.4

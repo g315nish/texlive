@@ -1,0 +1,36 @@
+name beamerauxtheme
+category Package
+revision 51053
+shortdesc Supplementary outer and inner themes for beamer
+longdesc This bundle provides a collection of inner and outer themes as
+longdesc supplements to the default themes in the beamer distribution.
+longdesc These themes can be used in combination with existing inner,
+longdesc outer, and color themes.
+containersize 3304
+containerchecksum 3f5585ec5b379f32d6051d604526ebb00673fab5236190226fce4bc2a4da3ed4c6a79431edd0c011bd34298d8bc2f5eb7a9dd9aa9b0bb15bfca0195222e1a37b
+doccontainersize 188568
+doccontainerchecksum faaf5267dea60efacd78f6ed055e1a8691729d96e3959d98ec315ef9802aa01a7193823973c488d44d21ecd845ae21bf51433acf007a34f806656fa6b3a8ecbb
+docfiles size=124
+ texmf-dist/doc/latex/beamerauxtheme/LICENSE
+ texmf-dist/doc/latex/beamerauxtheme/README.md details="Readme"
+ texmf-dist/doc/latex/beamerauxtheme/example-content.ltx
+ texmf-dist/doc/latex/beamerauxtheme/example-inner-simplelines.pdf details="Example presentation (1)"
+ texmf-dist/doc/latex/beamerauxtheme/example-inner-simplelines.tex
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-sidebarwithminiframes.pdf details="Example presentation (2)"
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-sidebarwithminiframes.tex
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-splitwithminiframes.pdf details="Example presentation (3)"
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-splitwithminiframes.tex
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-twolines.pdf details="Example presentation (4)"
+ texmf-dist/doc/latex/beamerauxtheme/example-outer-twolines.tex
+runfiles size=6
+ texmf-dist/tex/latex/beamerauxtheme/beamerinnerthemesimplelines.sty
+ texmf-dist/tex/latex/beamerauxtheme/beamerouterthemesidebarwithminiframes.sty
+ texmf-dist/tex/latex/beamerauxtheme/beamerouterthemesplitwithminiframes.sty
+ texmf-dist/tex/latex/beamerauxtheme/beamerouterthemetwolines.sty
+catalogue-contact-bugs https://github.com/louisstuart96/beamerauxtheme/issues
+catalogue-contact-repository https://github.com/louisstuart96/beamerauxtheme
+catalogue-ctan /macros/latex/contrib/beamer-contrib/themes/beamerauxtheme
+catalogue-date 2019-05-07 22:26:01 +0200
+catalogue-license lppl1.3c
+catalogue-topics presentation
+catalogue-version 1.01

@@ -1,0 +1,12 @@
+name dvidvi.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dvidvi
+containersize 10712
+containerchecksum 40ab59ff54334bc464a1a648e4c441ea3df2573770a560464157ce2f364df5b51fed45c8270f98bbc15281e0200b28435ce0a5622db90c08eea8e4fe93b950e1
+binfiles arch=win32 size=9
+ bin/win32/a5bookle.bat
+ bin/win32/a5bookle.exe
+ bin/win32/doubside.bat
+ bin/win32/doubside.exe
+ bin/win32/dvidvi.exe

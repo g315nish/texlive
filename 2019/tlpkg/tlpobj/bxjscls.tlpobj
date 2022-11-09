@@ -1,0 +1,45 @@
+name bxjscls
+category Package
+revision 51758
+shortdesc Japanese document class collection for all major engines
+longdesc This package provides an extended version of the Japanese
+longdesc document class collection provided by jsclasses. While the
+longdesc original version supports only pLaTeX and upLaTeX, the extended
+longdesc version also supports pdfLaTeX, XeLaTeX and LuaLaTeX, with the
+longdesc aid of suitable packages that provide capability of Japanese
+longdesc typesetting.
+containersize 31200
+containerchecksum a109996608f1ab1b12274726e8522b6e3f07cf6c07774800168a8ed171948684a8821260f4917838f5ee7509858f6a668cd881ec6d5be2aa29ccecbcb51bb200
+doccontainersize 1665704
+doccontainerchecksum f76a6fd1b5656be0a3a486e3dbe9dfde5e39d40310e3912158a6bee3981dfd615beb89675a5875cb5d31cc73f556a61842ddb427662e0e3ef40ca85415811014
+docfiles size=439
+ texmf-dist/doc/latex/bxjscls/LICENSE
+ texmf-dist/doc/latex/bxjscls/README-ja.md details="Readme (Japanese)" language="ja"
+ texmf-dist/doc/latex/bxjscls/README.md details="Readme"
+ texmf-dist/doc/latex/bxjscls/bxjscls-manual.pdf details="User guide (Japanese)" language="ja"
+ texmf-dist/doc/latex/bxjscls/bxjscls-manual.tex
+ texmf-dist/doc/latex/bxjscls/bxjscls.pdf details="Package documentation (Japanese)" language="ja"
+srccontainersize 78560
+srccontainerchecksum 97cd18d0e977d341e9ae04899c29541b24946ea87905b51477c59cc3231ee2cb650b7876e8a7c9acca2a712ab7d02c30d2d7cff52c080d87fefed8974ed91be4
+srcfiles size=95
+ texmf-dist/source/latex/bxjscls/bxjscls.dtx
+ texmf-dist/source/latex/bxjscls/bxjscls.ins
+runfiles size=97
+ texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
+ texmf-dist/tex/latex/bxjscls/bxjsbook.cls
+ texmf-dist/tex/latex/bxjscls/bxjscjkcat.sty
+ texmf-dist/tex/latex/bxjscls/bxjscompat.sty
+ texmf-dist/tex/latex/bxjscls/bxjsja-minimal.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-modern.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-pandoc.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-standard.def
+ texmf-dist/tex/latex/bxjscls/bxjspandoc.sty
+ texmf-dist/tex/latex/bxjscls/bxjsreport.cls
+ texmf-dist/tex/latex/bxjscls/bxjsslide.cls
+catalogue-contact-home https://github.com/zr-tex8r/BXjscls
+catalogue-contact-repository https://github.com/zr-tex8r
+catalogue-ctan /language/japanese/BX/bxjscls
+catalogue-date 2019-07-27 21:14:26 +0200
+catalogue-license bsd2
+catalogue-topics japanese class
+catalogue-version 1.9h

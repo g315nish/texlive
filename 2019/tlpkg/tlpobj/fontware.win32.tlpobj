@@ -1,0 +1,11 @@
+name fontware.win32
+category TLCore
+revision 50155
+shortdesc win32 files of fontware
+containersize 58168
+containerchecksum 4218b90083eacc0b2852c0aef837b459abba5dbd41cd1ef9f28124414acacad7012c2ea71e325b376d880e08e9fd20293897bc9702744233d973854d81e5a5e3
+binfiles arch=win32 size=49
+ bin/win32/pltotf.exe
+ bin/win32/tftopl.exe
+ bin/win32/vftovp.exe
+ bin/win32/vptovf.exe

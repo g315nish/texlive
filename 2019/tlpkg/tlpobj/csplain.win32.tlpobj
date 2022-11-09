@@ -1,0 +1,10 @@
+name csplain.win32
+category Package
+revision 50528
+shortdesc win32 files of csplain
+containersize 920
+containerchecksum 15ec099ebb1b34c864656d942b759a8240595f867a060fcab992e2226bf8fb555181db4d522cf58835d402e4480c442cb4c9112d6bf628969bd0f4d3e7d24791
+binfiles arch=win32 size=3
+ bin/win32/csplain.exe
+ bin/win32/luacsplain.exe
+ bin/win32/pdfcsplain.exe

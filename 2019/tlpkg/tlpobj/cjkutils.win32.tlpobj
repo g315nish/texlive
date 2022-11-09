@@ -1,0 +1,26 @@
+name cjkutils.win32
+category TLCore
+revision 50155
+shortdesc win32 files of cjkutils
+containersize 23232
+containerchecksum 667a816e8092f8916a47f11c5e1116ec5ad9daad285c7af3ba465081170f463a2921ca25ef3c103a46a8fb49bdc95c0e66b5f53334a5938af42286518834120e
+binfiles arch=win32 size=57
+ bin/win32/bg5conv.exe
+ bin/win32/bg5latex.exe
+ bin/win32/bg5pdflatex.exe
+ bin/win32/cef5conv.exe
+ bin/win32/cef5latex.exe
+ bin/win32/cef5pdflatex.exe
+ bin/win32/cefconv.exe
+ bin/win32/ceflatex.exe
+ bin/win32/cefpdflatex.exe
+ bin/win32/cefsconv.exe
+ bin/win32/cefslatex.exe
+ bin/win32/cefspdflatex.exe
+ bin/win32/extconv.exe
+ bin/win32/gbklatex.exe
+ bin/win32/gbkpdflatex.exe
+ bin/win32/hbf2gf.exe
+ bin/win32/sjisconv.exe
+ bin/win32/sjislatex.exe
+ bin/win32/sjispdflatex.exe

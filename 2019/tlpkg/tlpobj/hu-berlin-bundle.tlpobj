@@ -1,0 +1,44 @@
+name hu-berlin-bundle
+category Package
+revision 51477
+shortdesc LaTeX classes for the Humboldt-Universitat zu Berlin
+longdesc This package provides files according to the corporate design
+longdesc of the Humboldt-Universitat zu Berlin. This is not an official
+longdesc package by the university itself, and not officially approved
+longdesc by it. More information can be found in the Humboldt
+longdesc University's corporate design guideline and on the website
+longdesc https://www.hu-berlin.de/de/hu-intern/design. At present, the
+longdesc bundle contains a letter class based on scrlttr2.
+containersize 7820
+containerchecksum 1f7e2b6dece2dca1334c876cb881f7754bdc2e66eac656c577a416f26873b5fc6ffdf0bf539b446ceb66ad28d7334e3dc340ed33bc59a24a1ebd734b936b754a
+doccontainersize 423260
+doccontainerchecksum 67ae49666ac397c0cf86eaedfb1b7a2cd0748074b518ecdba2ab9c38f25408f4de42a8293eb3ddbef9724dfb24be1e8da30f3ee5ea4e6bfb9f11c730d622931a
+docfiles size=211
+ texmf-dist/doc/latex/hu-berlin-bundle/README.md details="Readme"
+ texmf-dist/doc/latex/hu-berlin-bundle/_markdown_hu-berlin-bundle/b6c78e8c7fdf104e322be55279aea9bd.md.tex
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-bundle-bibliography.bib
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-bundle.markdown.in
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-bundle.pdf details="Package documentation"
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-bundle.pkglist
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-letter-template.latex
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-letter.lco
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-letter.md
+ texmf-dist/doc/latex/hu-berlin-bundle/hu-berlin-letter.tex
+ texmf-dist/doc/latex/hu-berlin-bundle/img/hu-berlin-logo.jpg
+ texmf-dist/doc/latex/hu-berlin-bundle/img/texografie.png
+ texmf-dist/doc/latex/hu-berlin-bundle/makefile
+srccontainersize 16684
+srccontainerchecksum 7de2dba58b4efbe8bd03290fc90c29f6b515abbd74d32f8eb1639a488c5ea98cb4b7a94ca9883d69dbb0cdf16adffad913fabf01ac5184fabf8ea615feb4ddf5
+srcfiles size=16
+ texmf-dist/source/latex/hu-berlin-bundle/hu-berlin-bundle.dtx
+ texmf-dist/source/latex/hu-berlin-bundle/hu-berlin-bundle.ins
+runfiles size=7
+ texmf-dist/tex/latex/hu-berlin-bundle/hu-berlin-bundle-style.sty
+ texmf-dist/tex/latex/hu-berlin-bundle/hu-berlin-letter.cls
+catalogue-contact-bugs https://github.com/LukasCBossert/hu-berlin-bundle/issues
+catalogue-contact-repository https://github.com/LukasCBossert/hu-berlin-bundle
+catalogue-ctan /macros/latex/contrib/hu-berlin-bundle
+catalogue-date 2019-06-26 16:22:27 +0200
+catalogue-license lppl1.3cgpl2bsd3
+catalogue-topics class letter
+catalogue-version 1.0.3

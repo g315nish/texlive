@@ -1,0 +1,8 @@
+name gregoriotex.win32
+category Package
+revision 50343
+shortdesc win32 files of gregoriotex
+containersize 279500
+containerchecksum c2c8ccd66e743dcde6d0ad01f92e6b3eb57a846de1e28f851e3b87da56904c37788609ac093aa56caa2c67ed93af3162ad841a64e7dcbe37cffdb4e6fb38bf2a
+binfiles arch=win32 size=260
+ bin/win32/gregorio.exe

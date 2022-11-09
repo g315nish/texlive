@@ -1,0 +1,10 @@
+name collection-wintools
+category Collection
+revision 30307
+shortdesc Windows-only support programs
+longdesc Utilities for Windows, since they are not readily available
+longdesc there: chktex, unzip, wget, xpdf, and the dviout previewer.
+depend wintools.win32
+depend dviout.win32
+containersize 388
+containerchecksum 648617c8a047b9833429a38e77f1b605b060fc3ab4a356ab8a19e0c1b3650bb56eef7e7b9e8727e95d1e48b0fcac40d8994303527afc7511c5d1a34adab8df30

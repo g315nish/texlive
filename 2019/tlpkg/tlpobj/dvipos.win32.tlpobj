@@ -1,0 +1,8 @@
+name dvipos.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dvipos
+containersize 16832
+containerchecksum 705f996c26f15c6b6b193a96543c8d983f70c63775be9ab37540a4d259a577d771d314478edb58cc19ee23cad8bebb7fc9407a852bae3b46c6adfbadcabfef6d
+binfiles arch=win32 size=9
+ bin/win32/dvipos.exe

@@ -1,0 +1,10 @@
+name aleph.win32
+category Package
+revision 50540
+shortdesc win32 files of aleph
+containersize 180648
+containerchecksum 3712c332e216f97762fc375da8570c1cb38c718d3a344afb9b43d7f95785c2bd9212f4399c30de7841f93f98f1db6da3a9ed7a05f1d8055c17f17bfb22523a59
+binfiles arch=win32 size=113
+ bin/win32/aleph.dll
+ bin/win32/aleph.exe
+ bin/win32/lamed.exe

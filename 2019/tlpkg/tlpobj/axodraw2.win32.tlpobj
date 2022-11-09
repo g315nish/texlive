@@ -1,0 +1,8 @@
+name axodraw2.win32
+category Package
+revision 50155
+shortdesc win32 files of axodraw2
+containersize 86708
+containerchecksum dc751a7c3fd4259f95b241b152ee59e31302fa0a9669d07d7ba3ab3d25ee06ac909bd94e5409c93c8f1dedcb8c15816faa52e15da4434a586f2771032a027f25
+binfiles arch=win32 size=50
+ bin/win32/axohelp.exe

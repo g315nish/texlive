@@ -1,0 +1,52 @@
+name greek-fontenc
+category Package
+revision 51616
+shortdesc LICR macros and encoding definition files for Greek
+longdesc The package provides Greek LICR macro definitions and encoding
+longdesc definition files for Greek text font encodings for use with
+longdesc fontenc.
+containersize 25392
+containerchecksum 11b9fa2b314fcb5ba800ba800be4b88935ad2f56f4fee0209d3ca5dae9bb120a9267bca723195a9945535e24f4cb883b08ef335c1db1061773e1ea91a42ec132
+doccontainersize 1970880
+doccontainerchecksum 3fd4d1459679fe228006957bc194a2603b3064dee8312e5dbe52bad517192ed58fdfdbcb82477a30fa80ded661d97529aff463ca468c8e9d72073a75ed58f958
+docfiles size=636
+ texmf-dist/doc/latex/greek-fontenc/README details="Readme"
+ texmf-dist/doc/latex/greek-fontenc/README.html details="Readme (HTML)"
+ texmf-dist/doc/latex/greek-fontenc/alphabeta-doc.pdf
+ texmf-dist/doc/latex/greek-fontenc/alphabeta-doc.tex
+ texmf-dist/doc/latex/greek-fontenc/alphabeta-euenc.def.html
+ texmf-dist/doc/latex/greek-fontenc/alphabeta-lgr.def.html
+ texmf-dist/doc/latex/greek-fontenc/alphabeta.sty.html
+ texmf-dist/doc/latex/greek-fontenc/diacritics.pdf
+ texmf-dist/doc/latex/greek-fontenc/diacritics.tex
+ texmf-dist/doc/latex/greek-fontenc/greek-euenc-doc.pdf
+ texmf-dist/doc/latex/greek-fontenc/greek-euenc-doc.tex
+ texmf-dist/doc/latex/greek-fontenc/greek-euenc.def.html
+ texmf-dist/doc/latex/greek-fontenc/greek-euenc.def.txt
+ texmf-dist/doc/latex/greek-fontenc/greek-fontenc.def.html
+ texmf-dist/doc/latex/greek-fontenc/greekhyperref.pdf
+ texmf-dist/doc/latex/greek-fontenc/greekhyperref.tex
+ texmf-dist/doc/latex/greek-fontenc/lgr2licr.lua
+ texmf-dist/doc/latex/greek-fontenc/lgr2licr.lua.html
+ texmf-dist/doc/latex/greek-fontenc/lgrenc-test.pdf
+ texmf-dist/doc/latex/greek-fontenc/lgrenc-test.tex
+ texmf-dist/doc/latex/greek-fontenc/lgrenc.def.html
+ texmf-dist/doc/latex/greek-fontenc/test-active-semicolon.pdf
+ texmf-dist/doc/latex/greek-fontenc/test-nameclashes.pdf
+ texmf-dist/doc/latex/greek-fontenc/textalpha-doc.pdf
+ texmf-dist/doc/latex/greek-fontenc/textalpha-doc.tex
+ texmf-dist/doc/latex/greek-fontenc/textalpha.sty.html
+runfiles size=44
+ texmf-dist/tex/latex/greek-fontenc/alphabeta-euenc.def
+ texmf-dist/tex/latex/greek-fontenc/alphabeta-lgr.def
+ texmf-dist/tex/latex/greek-fontenc/alphabeta.sty
+ texmf-dist/tex/latex/greek-fontenc/greek-euenc.def
+ texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+ texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+ texmf-dist/tex/latex/greek-fontenc/textalpha.sty
+catalogue-also lgrx
+catalogue-ctan /language/greek/greek-fontenc
+catalogue-date 2019-07-11 19:05:01 +0200
+catalogue-license lppl1.3
+catalogue-topics greek fontenc
+catalogue-version 0.13.4

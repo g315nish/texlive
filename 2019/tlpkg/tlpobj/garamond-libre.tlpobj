@@ -1,0 +1,39 @@
+name garamond-libre
+category Package
+revision 51703
+shortdesc The Garamond Libre font face
+longdesc Garamond Libre is a free and open-source old-style font family.
+longdesc It is a "true Garamond," i.e., it is based off the designs of
+longdesc 16th-century French engraver Claude Garamond (also spelled
+longdesc Garamont). The Roman design is Garamond's; the italics are from
+longdesc a design by Robert Granjon. The upright Greek font is after a
+longdesc design by Firmin Didot; the "italic" Greek font is after a
+longdesc design by Alexander Wilson. The font family includes support
+longdesc for Latin, Greek (monotonic and polytonic) and Cyrillic
+longdesc scripts, as well as small capitals, old-style figures, superior
+longdesc and inferior figures, historical ligatures, Byzantine musical
+longdesc symbols, the IPA and swash capitals. Currently, regular, italic
+longdesc and bold fonts are provided; there is no set timeframe for the
+longdesc completion of a bold italic. The fonts are provided in OpenType
+longdesc format, and are intended to be used with LuaLaTeX or XeLaTeX
+longdesc via fontspec.
+containersize 641732
+containerchecksum 3ef5b7bc8255319a25245616f1750cb09422a9dc0184f0e7a13d481e7124278e093dcc2962f9d65a621bd1ccf54ac82f46d74c5a97b5a2117f8e23c7a39fe587
+doccontainersize 81596
+doccontainerchecksum d62d901e83e943653058d64c20135e460d5c8418665e5418439eaeaf662666011e5563fcea1bf3e68980bfde9a9572ad92a4a60d6755acd8737fb10932483d51
+docfiles size=25
+ texmf-dist/doc/fonts/garamond-libre/README details="Readme"
+ texmf-dist/doc/fonts/garamond-libre/garamond-libre.pdf details="Package documentation"
+ texmf-dist/doc/fonts/garamond-libre/garamond-libre.tex
+runfiles size=503
+ texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-Bold.otf
+ texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-Italic.otf
+ texmf-dist/fonts/opentype/public/garamond-libre/GaramondLibre-Regular.otf
+catalogue-contact-bugs https://github.com/dbenjaminmiller/garamond-libre/issues
+catalogue-contact-home https://dbmiller.org/type/garamond-libre.html
+catalogue-contact-repository https://github.com/dbenjaminmiller/garamond-libre
+catalogue-ctan /fonts/garamond-libre
+catalogue-date 2019-07-22 10:44:07 +0200
+catalogue-license mit
+catalogue-topics font font-body font-otf font-serif font-greek font-cyrillic font-multilingual font-proportional
+catalogue-version 1.1

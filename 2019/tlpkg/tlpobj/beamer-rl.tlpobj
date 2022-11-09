@@ -1,0 +1,26 @@
+name beamer-rl
+category Package
+revision 52284
+shortdesc Right to left presentation with beamer and babel
+longdesc This package provides patches of some beamer templates and
+longdesc commands for presentation from right to left. It requires Babel
+longdesc with the LuaTeX engine.
+containersize 3676
+containerchecksum 4e7e9cae6b48521baab4d92965d5b4e14d9b09a51e95b45c4953a7c6199c29691e5a8e69a68c0b29d27d51ddbd1fe57ed21cc6dc6744fb0de2f7544848aacf06
+doccontainersize 180268
+doccontainerchecksum bfa9d52b34ad4edef40166e6a0355e5efd4508499a87c1cf4f643fe30f873366158e21706c06f43822e244c69b85c40d254c68d60a82b91e3a4381d27866b807
+docfiles size=63
+ texmf-dist/doc/lualatex/beamer-rl/Example-of-use-ar.pdf details="Example of use (Arabic)" language="ar"
+ texmf-dist/doc/lualatex/beamer-rl/Example-of-use-ar.tex
+ texmf-dist/doc/lualatex/beamer-rl/Example-of-use-en.pdf details="Example of use (English)" language="en"
+ texmf-dist/doc/lualatex/beamer-rl/Example-of-use-en.tex
+ texmf-dist/doc/lualatex/beamer-rl/README.txt details="Readme"
+runfiles size=4
+ texmf-dist/tex/lualatex/beamer-rl/beamer-rl.cls
+catalogue-contact-bugs https://github.com/seloumi/beamer-rl/issues
+catalogue-contact-repository https://github.com/seloumi/beamer-rl
+catalogue-ctan /macros/luatex/latex/beamer-rl
+catalogue-date 2019-10-04 17:26:52 +0200
+catalogue-license lppl1.3c
+catalogue-topics class presentation bidi multilingual luatex
+catalogue-version 1.3

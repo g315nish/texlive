@@ -1,0 +1,42 @@
+name babel-greek
+category Package
+revision 51628
+shortdesc Babel support for documents written in Greek
+longdesc The file provides modes for monotonic (single-diacritic) and
+longdesc polytonic (multiple-diacritic) modes of writing. Provision is
+longdesc made for Greek function names in mathematics, and for
+longdesc classical-era symbols.
+containersize 5724
+containerchecksum 4b4cb6cc75cd7ff896a2881402809b253e8720140ff80b0cfdb85f6cebd3cbe9b095d7fc277574525d3601f9aa3c1546940ecab65bb85ef216667b4e42e1aa46
+doccontainersize 1028740
+doccontainerchecksum cae49d0afd7db0191581189d0613ca0fd1bf906e81232ea4b0ec1db9b90bdd7c724833ad4ba72ed193b62817dad41dc62e50d4873c60f5642e97ebfb20706be2
+docfiles size=284
+ texmf-dist/doc/generic/babel-greek/README details="Readme"
+ texmf-dist/doc/generic/babel-greek/README.html details="Readme (HTML)"
+ texmf-dist/doc/generic/babel-greek/athnum.pdf
+ texmf-dist/doc/generic/babel-greek/babel-greek.pdf details="Documentation"
+ texmf-dist/doc/generic/babel-greek/grmath.pdf details="Maths documentation"
+ texmf-dist/doc/generic/babel-greek/test-greek.pdf
+ texmf-dist/doc/generic/babel-greek/test-greek.tex
+ texmf-dist/doc/generic/babel-greek/test-unicode-greek.pdf
+ texmf-dist/doc/generic/babel-greek/test-unicode-greek.tex
+ texmf-dist/doc/generic/babel-greek/test-unicode-lgr.pdf
+ texmf-dist/doc/generic/babel-greek/test-unicode-lgr.tex
+ texmf-dist/doc/generic/babel-greek/usage.pdf details="Usage documentation"
+ texmf-dist/doc/generic/babel-greek/usage.tex
+srccontainersize 20028
+srccontainerchecksum 80f955015d5cd62ec84c694f61525ae3eda442a00fb9d41997c465c9c8df70ef50a103aa94ea3aba51f01f35f70b4ed15e1e02a3791386d1cf506dba390ea9a0
+srcfiles size=21
+ texmf-dist/source/generic/babel-greek/athnum.dtx
+ texmf-dist/source/generic/babel-greek/babel-greek.dtx
+ texmf-dist/source/generic/babel-greek/babel-greek.ins
+ texmf-dist/source/generic/babel-greek/grmath.dtx
+runfiles size=7
+ texmf-dist/tex/generic/babel-greek/athnum.sty
+ texmf-dist/tex/generic/babel-greek/greek.ldf
+ texmf-dist/tex/generic/babel-greek/grmath.sty
+catalogue-ctan /macros/latex/contrib/babel-contrib/greek
+catalogue-date 2019-07-12 06:13:54 +0200
+catalogue-license lppl1.3
+catalogue-topics greek multilingual-addon
+catalogue-version 1.9h

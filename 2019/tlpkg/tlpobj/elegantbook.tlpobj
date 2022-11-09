@@ -1,0 +1,39 @@
+name elegantbook
+category Package
+revision 51901
+shortdesc An Elegant LaTeX Template for Books
+longdesc ElegantBook is designed for writing Books. This template is
+longdesc based on the standard LaTeX book class. The goal of this
+longdesc template is to make the writing process more elegant. Just
+longdesc enjoy it!
+containersize 7268
+containerchecksum 8903163ce14195549cdca1ada3473c379630e273d1889f99b86eaad85f07913cc3ce54ed6c14650376729ca0d470d639b8b10ed915fd11f5639d5c62845c7118
+doccontainersize 2309672
+doccontainerchecksum bcdda56507c66123acfc3489dd055d2fe3064875969d8b31c535f8f9cf6e06555f701134c1075683a392ba0ec2933c1a916b0a05eb70d761ff45b29a52df8648
+docfiles size=900
+ texmf-dist/doc/latex/elegantbook/License
+ texmf-dist/doc/latex/elegantbook/README.md details="Readme"
+ texmf-dist/doc/latex/elegantbook/elegantbook-cn.pdf details="Package documentation (Chinese)" language="zh"
+ texmf-dist/doc/latex/elegantbook/elegantbook-cn.tex
+ texmf-dist/doc/latex/elegantbook/elegantbook-en.pdf details="Package documentation (English)"
+ texmf-dist/doc/latex/elegantbook/elegantbook-en.tex
+ texmf-dist/doc/latex/elegantbook/figure/cover.jpg
+ texmf-dist/doc/latex/elegantbook/figure/logo.png
+ texmf-dist/doc/latex/elegantbook/image/donate.jpg
+ texmf-dist/doc/latex/elegantbook/image/scatter.pdf
+ texmf-dist/doc/latex/elegantbook/image/scatter.py
+ texmf-dist/doc/latex/elegantbook/image/star-history.png
+ texmf-dist/doc/latex/elegantbook/image/star.png
+ texmf-dist/doc/latex/elegantbook/image/tlshell.png
+ texmf-dist/doc/latex/elegantbook/reference.bib
+runfiles size=7
+ texmf-dist/tex/latex/elegantbook/elegantbook.cls
+catalogue-contact-announce https://elegantlatex.org/
+catalogue-contact-home https://elegantlatex.org/
+catalogue-contact-repository https://github.com/ElegantLaTeX/ElegantBook
+catalogue-contact-support https://github.com/ElegantLaTeX/ElegantBook/issues
+catalogue-ctan /macros/latex/contrib/elegantbook
+catalogue-date 2019-08-18 17:49:35 +0200
+catalogue-license lppl1.3c
+catalogue-topics class chinese book-pub
+catalogue-version 3.09

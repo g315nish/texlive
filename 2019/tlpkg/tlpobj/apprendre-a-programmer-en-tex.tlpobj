@@ -1,0 +1,37 @@
+name apprendre-a-programmer-en-tex
+category Package
+revision 50933
+shortdesc The book "Apprendre a programmer en TeX"
+longdesc This book explains the basic concepts required for programming
+longdesc in TeX and explains the programming methods, providing many
+longdesc examples. The package makes the compileable source code as well
+longdesc as the compiled pdf file accessible to everyone. Ce livre
+longdesc expose les concepts de base requis pour programmer en TeX et
+longdesc decrit les methodes de programmation en s'appuyant sur de
+longdesc nombreux exemples. Ce package met a disposition de tous le code
+longdesc source compilable ainsi que le fichier pdf du livre.
+containersize 704
+containerchecksum deaf9ad3580a803fd5fa7cbf8f8a11df4d350b7b90ed880317d1e67290ce8b48bf783bfdf470076b672cc5e257bd10d69d6361c7959d81f9fb759752adbf2a6e
+doccontainersize 31885208
+doccontainerchecksum 820f1ba9f635e05a25167203a1f27d13c380281640784828c27ae7366816f309c6d3a630abf3ed49ed996357064878c735c9d7c17bd6dc262a21a420fe40f77f
+docfiles size=9693
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/README details="Readme"
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/cover/couverture.pdf
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/fonts/libertine-legacy.zip
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/fonts/linlibmonoc.zip
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/output/apprendre-a-programmer-en-tex.pdf details="The document itself" language="fr"
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/output/progtexcode.txt
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/apprendre-a-programmer-en-tex.tex
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/mandelbrot.pdf
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/mandelbrot.tex
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/pg0001.pdf
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/pg0002.pdf
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/pg0003.pdf
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/progtexmacro.tex
+ texmf-dist/doc/plain/apprendre-a-programmer-en-tex/source/vignette.png
+catalogue-contact-bugs https://framagit.org/unbonpetit/apprendre-a-programmer-en-tex/issues
+catalogue-contact-repository https://framagit.org/unbonpetit/apprendre-a-programmer-en-tex
+catalogue-ctan /info/apprendre-a-programmer-en-tex
+catalogue-date 2019-04-27 11:27:16 +0200
+catalogue-license lppl1.2
+catalogue-topics book-src tut-plaintex french-doc documentation

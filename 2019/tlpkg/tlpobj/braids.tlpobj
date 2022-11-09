@@ -1,0 +1,33 @@
+name braids
+category Package
+revision 51048
+shortdesc Draw braid diagrams with PGF/TikZ
+longdesc The package enables drawing of braid diagrams with PGF/TikZ
+longdesc using a simple syntax. The braid itself is specified by giving
+longdesc a word in the braid group, and there are many options for
+longdesc styling the strands and for drawing "floors".
+containersize 7160
+containerchecksum bf0c0ff2b6e81b0dbbbb317a1be711e8dc9812214740048a0dea40d8d3045c3fbb996fe1369783ed906571587a5fd241e6a7ce5023c3278ee1bdda19a7411787
+doccontainersize 670648
+doccontainerchecksum 2a96dfb2c18a89d34e4116e1fa81f48532605b625b227fb24f7a949a9e3707f1ffc02f4a20b254e963801a8f97d7f093db7b568adc3b8f4a1fce4bbb7ffb51b5
+docfiles size=185
+ texmf-dist/doc/latex/braids/README.txt details="Readme"
+ texmf-dist/doc/latex/braids/braids.pdf details="Package documentation"
+ texmf-dist/doc/latex/braids/braids.tex
+ texmf-dist/doc/latex/braids/braids_code.pdf
+srccontainersize 14312
+srccontainerchecksum 0a0760d9d88ba7c96d2691b0e180ed09ea9932f8170c4c112eef5eb58e112bd69e1d2362bd5ba46b852eb0d7678bf9049c9ae8e69e0b47772f8edfd2c23c5285
+srcfiles size=19
+ texmf-dist/source/latex/braids/braids_code.dtx
+ texmf-dist/source/latex/braids/braids_code.ins
+runfiles size=12
+ texmf-dist/tex/latex/braids/braids.sty
+ texmf-dist/tex/latex/braids/tikzlibrarybraids.code.tex
+catalogue-contact-bugs https://github.com/loopspace/braids/issues
+catalogue-contact-home https://github.com/loopspace/braids
+catalogue-contact-repository https://github.com/loopspace/braids
+catalogue-ctan /graphics/pgf/contrib/braids
+catalogue-date 2019-05-08 08:33:46 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths diagram
+catalogue-version 2.0

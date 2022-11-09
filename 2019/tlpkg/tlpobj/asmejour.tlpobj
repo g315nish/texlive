@@ -1,0 +1,30 @@
+name asmejour
+category Package
+revision 52254
+shortdesc A template for ASME journal papers
+longdesc This package provides a LaTeX class, a BibTeX style, and a
+longdesc LaTeX template to format journal papers for submission to the
+longdesc American Society of Mechanical Engineers (ASME). The .tex and
+longdesc .cls files are commented and should be self-explanatory. The
+longdesc package depends on newtx. This work is not a publication of
+longdesc ASME itself.
+containersize 15716
+containerchecksum 3c3536f41691c251fb9d94a603981cd184c8cfa92776ddcac7a67d166f918fae1f20625870bbb3bd963c6448695dd4e575c75ef5aadec0c1dd1d412a2fef3be8
+doccontainersize 470900
+doccontainerchecksum 70b3ee220e37957e992a6570b1b4668e8d7cb730a0e0d910228f0f2bf0ea1f2e9509b12571d01f7aad628114e52754305eec4389af1d6afe7dcdb2a697f0e542
+docfiles size=187
+ texmf-dist/doc/latex/asmejour/README.md details="Readme"
+ texmf-dist/doc/latex/asmejour/asmejour-sample.bib
+ texmf-dist/doc/latex/asmejour/asmejour-template.pdf details="Example of use"
+ texmf-dist/doc/latex/asmejour/asmejour-template.tex
+ texmf-dist/doc/latex/asmejour/sample-figure-1.pdf
+ texmf-dist/doc/latex/asmejour/sample-figure-2a.pdf
+ texmf-dist/doc/latex/asmejour/sample-figure-2b.pdf
+runfiles size=16
+ texmf-dist/bibtex/bst/asmejour/asmejour.bst
+ texmf-dist/tex/latex/asmejour/asmejour.cls
+catalogue-ctan /macros/latex/contrib/asmejour
+catalogue-date 2019-10-02 06:33:50 +0200
+catalogue-license mit
+catalogue-topics class journalpub scientific-docs bibtex-sty engineering
+catalogue-version 1.06

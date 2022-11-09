@@ -1,0 +1,25 @@
+name babel-serbian
+category Package
+revision 51651
+shortdesc Babel/Polyglossia support for Serbian
+longdesc The package provides support for Serbian documents written in
+longdesc Latin, in babel.
+containersize 2936
+containerchecksum 5c048c0d2e04820ebd3cd22808f3c960e43dc715d9425ad0369a47cf38086f3995b4dbca491f05a4cc1e952a1c237bc6f0af9d4758ab970de31494cd45ab264f
+doccontainersize 236528
+doccontainerchecksum 47bacc3ece71805524b057ff53b1acfb99a84920aa0ee0a7ac2c059f2cbcbeaa1b40c99d93fd3177dcb3a5910b71679da5c0a25618d3c7222ad2718d839bc5d7
+docfiles size=62
+ texmf-dist/doc/generic/babel-serbian/README.md
+ texmf-dist/doc/generic/babel-serbian/serbian.pdf details="Package documentation"
+srccontainersize 6272
+srccontainerchecksum 33aca6ddf3454dce1978348f68e64492aa5993c60ab0d8e7fc8b448c121aebf5d8b0b0038e56aa7d370e8b7d18d5c40a3043950b73a2a7fbcb989de77f9dc853
+srcfiles size=6
+ texmf-dist/source/generic/babel-serbian/serbian.dtx
+ texmf-dist/source/generic/babel-serbian/serbian.ins
+runfiles size=2
+ texmf-dist/tex/generic/babel-serbian/serbian.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/serbian
+catalogue-date 2019-07-16 12:52:47 +0200
+catalogue-license lppl1.3
+catalogue-topics multilingual-addon serbian
+catalogue-version 2.0

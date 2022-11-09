@@ -1,0 +1,72 @@
+name graphics
+category Package
+revision 52286
+catalogue latex-graphics
+shortdesc The LaTeX standard graphics bundle
+longdesc This is a collection of LaTeX packages for: producing colour
+longdesc including graphics (eg PostScript) files rotation and scaling
+longdesc of text in LaTeX documents. It comprises the packages color,
+longdesc graphics, graphicx, trig, epsfig, keyval, and lscape.
+depend graphics-cfg
+containersize 14868
+containerchecksum 8a66c8fa210c960223f80d4f358073b0409ca19f15479f01f2e3673e3f0e5eb219b87e1c7dbfbb906c2ebe8ae302bdaa5f06dc70d1969fa8910fa746a838b0be
+doccontainersize 1998372
+doccontainerchecksum d22a9d032478bc979d9859f0dc2567d9dfcffb72894c89c0b64b542ecd3ff7eac9e9ce0e6cd870ee790cf7cdbd154cbd7b5c57444f34e2090eb8feb35cb317e8
+docfiles size=622
+ texmf-dist/doc/latex/graphics/README.md details="Readme"
+ texmf-dist/doc/latex/graphics/cat.eps
+ texmf-dist/doc/latex/graphics/changes.txt
+ texmf-dist/doc/latex/graphics/color.pdf
+ texmf-dist/doc/latex/graphics/drivers.pdf
+ texmf-dist/doc/latex/graphics/epsfig.pdf
+ texmf-dist/doc/latex/graphics/graphics.pdf
+ texmf-dist/doc/latex/graphics/graphicx.pdf
+ texmf-dist/doc/latex/graphics/grfguide.pdf details="Bundle documentation"
+ texmf-dist/doc/latex/graphics/grfguide.tex
+ texmf-dist/doc/latex/graphics/keyval.pdf
+ texmf-dist/doc/latex/graphics/lscape.pdf
+ texmf-dist/doc/latex/graphics/rotating.pdf
+ texmf-dist/doc/latex/graphics/rotex.pdf
+ texmf-dist/doc/latex/graphics/rotex.tex
+ texmf-dist/doc/latex/graphics/trig.pdf
+srccontainersize 51428
+srccontainerchecksum 4c36afc18a8fa4a107ded6aa18f344fa3de6696cd8ef87db2a88dd23972aa83c5b83ef387e919d59bc22157d7ac2a6ac0df6a04b0495b3542432a0a545271f32
+srcfiles size=62
+ texmf-dist/source/latex/graphics/color.dtx
+ texmf-dist/source/latex/graphics/drivers.dtx
+ texmf-dist/source/latex/graphics/epsfig.dtx
+ texmf-dist/source/latex/graphics/graphics-drivers.ins
+ texmf-dist/source/latex/graphics/graphics.dtx
+ texmf-dist/source/latex/graphics/graphics.ins
+ texmf-dist/source/latex/graphics/graphicx.dtx
+ texmf-dist/source/latex/graphics/keyval.dtx
+ texmf-dist/source/latex/graphics/lscape.dtx
+ texmf-dist/source/latex/graphics/rotating.dtx
+ texmf-dist/source/latex/graphics/trig.dtx
+runfiles size=35
+ texmf-dist/tex/latex/graphics/color.sty
+ texmf-dist/tex/latex/graphics/dvipdf.def
+ texmf-dist/tex/latex/graphics/dvipsnam.def
+ texmf-dist/tex/latex/graphics/dvipsone.def
+ texmf-dist/tex/latex/graphics/dviwin.def
+ texmf-dist/tex/latex/graphics/emtex.def
+ texmf-dist/tex/latex/graphics/epsfig.sty
+ texmf-dist/tex/latex/graphics/graphics-2017-06-25.sty
+ texmf-dist/tex/latex/graphics/graphics.sty
+ texmf-dist/tex/latex/graphics/graphicx.sty
+ texmf-dist/tex/latex/graphics/keyval.sty
+ texmf-dist/tex/latex/graphics/lscape.sty
+ texmf-dist/tex/latex/graphics/pctex32.def
+ texmf-dist/tex/latex/graphics/pctexhp.def
+ texmf-dist/tex/latex/graphics/pctexps.def
+ texmf-dist/tex/latex/graphics/pctexwin.def
+ texmf-dist/tex/latex/graphics/rotating.sty
+ texmf-dist/tex/latex/graphics/tcidvi.def
+ texmf-dist/tex/latex/graphics/trig.sty
+ texmf-dist/tex/latex/graphics/truetex.def
+catalogue-contact-bugs https://www.latex-project.org/bugs/
+catalogue-contact-home https://www.latex-project.org/
+catalogue-ctan /macros/latex/required/graphics
+catalogue-date 2019-10-03 19:39:53 +0200
+catalogue-license lppl1.3c
+catalogue-topics graphics collection

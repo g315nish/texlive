@@ -1,0 +1,9 @@
+name chktex.win32
+category TLCore
+revision 50155
+shortdesc win32 files of chktex
+containersize 44884
+containerchecksum 9403d1779b84e117f112081dc587004ef0837620c1d28b97c8b690a68c6cb30009d6b120665d2b04c1de619d8970ae090ca7f220773a7ca89463dc36c4660448
+binfiles arch=win32 size=23
+ bin/win32/chktex.exe
+ bin/win32/deweb.exe

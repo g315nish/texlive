@@ -1,0 +1,63 @@
+name cjk-gs-integrate
+category Package
+revision 51888
+shortdesc Tools to integrate CJK fonts into Ghostscript
+longdesc This script searches a list of directories for CJK fonts, and
+longdesc makes them available to an installed Ghostscript. In the
+longdesc simplest case, with sufficient privileges, a run without
+longdesc arguments should result in a complete setup of Ghostscript.
+depend cjk-gs-integrate.ARCH
+containersize 32272
+containerchecksum f4b6cad8406972b57a540a29897962cd01a481932e7a1efad6000f336040517a1b5af19a8f422a74d4c32fea02d95aec30085e26cccaae3e8e634e8233fff071
+doccontainersize 11792
+doccontainerchecksum c74b94b3de893c2a93bd14c059f85b786684fd548e568c058e182935ccdef5e1ffa16788d7b4ed9af1544152e39e3e16ede95431ede8cc9474d2e72161fe2c12
+docfiles size=13
+ texmf-dist/doc/fonts/cjk-gs-integrate/ChangeLog
+ texmf-dist/doc/fonts/cjk-gs-integrate/README.md details="Readme"
+srccontainersize 548
+srccontainerchecksum 0ac430f7b0f56c244b57d704383af91e74d0eff5262839c375769b170d84380b92a9e17ec46d2c894fc35a27a527b93b5338b8ef3440386c2ca17e2884b4c3d4
+srcfiles size=1
+ texmf-dist/source/fonts/cjk-gs-integrate/Makefile
+runfiles size=68
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-adobe.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-apple.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-arphic.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-bizud.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-cjkuni.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-dynacomware.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-fandol.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-fontworks.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-founder.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-hancom.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-heisei.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-hiragino.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-ipa.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-kozuka.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-macos-removeonly.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-microsoft.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-mogamobo.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-monotype.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-morisawa.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-nanum.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-notosans.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-notoserif.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-ryokana.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-sazanami.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-sinotype.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-solaris.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-sourcehansans.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-sourcehanserif.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-toppan.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-typebank.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-ume.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-unfonts.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-wenquanyi.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-yu-osx.dat
+ texmf-dist/fonts/misc/cjk-gs-integrate/cjkgs-yu-win.dat
+ texmf-dist/scripts/cjk-gs-integrate/cjk-gs-integrate.pl
+catalogue-contact-repository https://github.com/texjporg/cjk-gs-support
+catalogue-ctan /fonts/utilities/cjk-gs-integrate
+catalogue-date 2019-08-16 17:12:42 +0200
+catalogue-license gpl3
+catalogue-topics font-util
+catalogue-version 20190816.0

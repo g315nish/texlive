@@ -1,0 +1,40 @@
+name biblatex-chem
+category Package
+revision 51958
+shortdesc A set of BibLaTeX implementations of chemistry-related bibliography styles
+longdesc The bundle offers a set of styles to allow chemists to use
+longdesc BibLaTeX. The package has complete styles for: all ACS
+longdesc journals; RSC journals using standard (Chem. Commun.) style;
+longdesc and Angewandte Chem. style, (thus covering a wide range of
+longdesc journals). A comprehensive set of examples of use is included.
+containersize 5616
+containerchecksum 6a7494fe396febf23e6d6afe7f7800e7117c722aa45e28373acae3590bca898da8867269d6e148b36c4da301b60c8c342f4ae24dfeb56d0100528dcc4305fbe8
+doccontainersize 923944
+doccontainerchecksum 90bcd8c128dd7d601a29c828302ef3cc4dc345a77d6dfda9962061ebdcfbdc8ac4a2525c727985a14467bbfae651347226fcabc395318ed490bf4d324476ed28
+docfiles size=382
+ texmf-dist/doc/latex/biblatex-chem/README.md details="Readme"
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-acs.pdf
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-acs.tex
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-angew.pdf
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-angew.tex
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-biochem.pdf
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-biochem.tex
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-rsc.pdf
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem-rsc.tex
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem.bib
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem.pdf details="Package documentation"
+ texmf-dist/doc/latex/biblatex-chem/biblatex-chem.tex
+runfiles size=24
+ texmf-dist/tex/latex/biblatex-chem/chem-acs.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-acs.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-angew.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-angew.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-biochem.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-biochem.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-rsc.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-rsc.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-chem
+catalogue-date 2019-08-24 23:31:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex chemistry journalpub
+catalogue-version 1.1x

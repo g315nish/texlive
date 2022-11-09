@@ -1,0 +1,16 @@
+name asymptote.win32
+category TLCore
+revision 50744
+shortdesc win32 files of asymptote
+containersize 6563688
+containerchecksum b635e964b30c18c57e092ef51dd5d7864d404beab63c120c87b39b6984fce74fe90e8ff24d53447dea40f83a4d22624b67d8210d4751379eaa31659f7d40e222
+binfiles arch=win32 size=5876
+ bin/win32/asy.exe
+ tlpkg/asymptote/asy.exe
+ tlpkg/asymptote/cygwin1.dll
+ tlpkg/asymptote/freeglut.dll
+ tlpkg/asymptote/glu32.dll
+ tlpkg/asymptote/opengl32.dll
+ tlpkg/asymptote64/asy.exe
+ tlpkg/asymptote64/cygwin1.dll
+ tlpkg/asymptote64/freeglut.dll

@@ -1,0 +1,44 @@
+name gentombow
+category Package
+revision 51697
+shortdesc Generate Japanese-style crop marks
+longdesc This bundle provides a LaTeX package for generating
+longdesc Japanese-style crop marks (called 'tombow' in Japanese) for
+longdesc practical use in self-publishing. The bundle contains the
+longdesc following packages: gentombow.sty: Generate crop marks (called
+longdesc 'tombow' in Japanese) for practical use in self-publishing. It
+longdesc provides the core 'tombow' feature if not available.
+longdesc pxgentombow.sty: Superseded by gentombow.sty; kept for
+longdesc compatibility only. bounddvi.sty: Set papersize special to DVI
+longdesc file. Can be used on LaTeX/pLaTeX/upLaTeX (with DVI output
+longdesc mode) with dvips or dvipdfmx drivers.
+containersize 8292
+containerchecksum 4643d4146fe341552af7b3600b61b7c852427fca554b9c7fd4eddd3b1645ec7a686a799fa2371e0a9b1cad02ab5aa965a690daed477ea8c14711343e8c274992
+doccontainersize 551616
+doccontainerchecksum 0de50b7a73f752f36bca2ae985a53b1203e9bfc733e2cc3bb5e7ed9afbab0bc59b91cba95a315d8f41a4097402ac9c84a5fa86bbbffaf003fd1bb7da643af54e
+docfiles size=150
+ texmf-dist/doc/latex/gentombow/LICENSE
+ texmf-dist/doc/latex/gentombow/README.md details="Readme"
+ texmf-dist/doc/latex/gentombow/bounddvi-en.pdf details="Documentation of the bounddvi package (English)"
+ texmf-dist/doc/latex/gentombow/bounddvi-en.tex
+ texmf-dist/doc/latex/gentombow/bounddvi.pdf details="Documentation of the bounddvi package (Japanese)" language="ja"
+ texmf-dist/doc/latex/gentombow/bounddvi.tex
+ texmf-dist/doc/latex/gentombow/gentombow-ja.pdf details="Documentation of the gentombow package (Japanese)" language="ja"
+ texmf-dist/doc/latex/gentombow/gentombow-ja.tex
+ texmf-dist/doc/latex/gentombow/gentombow.pdf details="Documentation of the gentombow package (English)"
+ texmf-dist/doc/latex/gentombow/gentombow.tex
+ texmf-dist/doc/latex/gentombow/pxgentombow.pdf
+ texmf-dist/doc/latex/gentombow/pxgentombow.tex
+srccontainersize 656
+srccontainerchecksum d73b8bcaa902875be9fbc2620e69a85deb226337b9c330a1e083bc6b73690db214a8a426d243b41b50ac708911559ad8287f7842cd449039b98510c04b75bec1
+srcfiles size=1
+ texmf-dist/source/latex/gentombow/Makefile
+runfiles size=9
+ texmf-dist/tex/latex/gentombow/bounddvi.sty
+ texmf-dist/tex/latex/gentombow/gentombow.sty
+ texmf-dist/tex/latex/gentombow/pxgentombow.sty
+catalogue-contact-repository https://github.com/aminophen/gentombow
+catalogue-ctan /macros/latex/contrib/gentombow
+catalogue-date 2019-07-21 14:39:06 +0200
+catalogue-license bsd3
+catalogue-topics japanese layout-page page-control

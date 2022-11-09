@@ -1,0 +1,33 @@
+name countriesofeurope
+category Package
+revision 52285
+shortdesc A font with the images of the countries of Europe
+longdesc The bundle provides a font "CountriesOfEurope" (in Adobe Type 1
+longdesc format) and the necessary metrics, together with LaTeX macros
+longdesc for its use. The font provides glyphs with a filled outline of
+longdesc the shape of each country; each glyph is at the same
+longdesc cartographic scale.
+execute addMap countriesofeurope.map
+containersize 219540
+containerchecksum 77d075fe233359be6d50003d9577ce84965c409ae89da18ae91ab214a80200b83843ee25a1caaf1d0ac1e6fc076efbe560f3dacc1770120a89c6d8612915418b
+doccontainersize 103316
+doccontainerchecksum 03071f1cc0c00f1930307395126f035080c2efae21ec99ae81a03abdbc572d1219dcd3a63b8d988036a1c2b9c4f1a4a564df7017a886965068d1ae314a995306
+docfiles size=30
+ texmf-dist/doc/fonts/countriesofeurope/Changes
+ texmf-dist/doc/fonts/countriesofeurope/README details="Readme"
+ texmf-dist/doc/fonts/countriesofeurope/countriesofeurope.bib
+ texmf-dist/doc/fonts/countriesofeurope/countriesofeurope.pdf details="Package documentation"
+ texmf-dist/doc/fonts/countriesofeurope/countriesofeurope.tex
+runfiles size=72
+ texmf-dist/fonts/afm/public/countriesofeurope/countriesofeurope.afm
+ texmf-dist/fonts/enc/dvips/countriesofeurope/countriesofeurope.enc
+ texmf-dist/fonts/map/dvips/countriesofeurope/countriesofeurope.map
+ texmf-dist/fonts/opentype/public/countriesofeurope/countriesofeurope.otf
+ texmf-dist/fonts/tfm/public/countriesofeurope/countriesofeurope.tfm
+ texmf-dist/fonts/type1/public/countriesofeurope/countriesofeurope.pfb
+ texmf-dist/tex/latex/countriesofeurope/countriesofeurope.sty
+catalogue-ctan /fonts/countriesofeurope
+catalogue-date 2019-10-03 15:46:20 +0200
+catalogue-license ofllppl
+catalogue-topics font font-type1 font-novelty
+catalogue-version 0.23

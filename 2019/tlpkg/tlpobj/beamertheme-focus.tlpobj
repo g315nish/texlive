@@ -1,0 +1,38 @@
+name beamertheme-focus
+category Package
+revision 51489
+shortdesc A minimalist presentation theme for LaTeX Beamer
+longdesc A presentation theme for LaTeX Beamer that aims at a clean and
+longdesc minimalist design, so to minimize distractions and put the
+longdesc focus directly on the content.
+containersize 4364
+containerchecksum 52ee3fce7ed3757003ed22aedc66e7fcf54786cddd937920562fb9e84075e682a4fa9ac6af8c35e10b7995c92b5fe1ade1804194cb7ad7acb6e85dbc4e59ac85
+doccontainersize 543672
+doccontainerchecksum cdf902c6b053ac56dfd450ca4e6aa0e3eb2b12eadeaa39618f5603f409e6ce8ca69e617c6eec574b4991a70264579f3c9f533bd196c18579755d82a6c869ceec
+docfiles size=156
+ texmf-dist/doc/latex/beamertheme-focus/LICENSE
+ texmf-dist/doc/latex/beamertheme-focus/README.md details="Readme"
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-appendix.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-focus.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-references.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-subsectionpage.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-titlepage-color.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-titlepage.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo-screenshots/demo-typeset.jpg
+ texmf-dist/doc/latex/beamertheme-focus/demo.pdf details="Example of use"
+ texmf-dist/doc/latex/beamertheme-focus/demo.tex
+ texmf-dist/doc/latex/beamertheme-focus/demo_bibliography.bib
+ texmf-dist/doc/latex/beamertheme-focus/focuslogo.pdf
+runfiles size=8
+ texmf-dist/tex/latex/beamertheme-focus/beamercolorthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerfontthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerinnerthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerouterthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerthemefocus.sty
+catalogue-contact-bugs https://github.com/elauksap/focus-beamertheme/issues
+catalogue-contact-repository https://github.com/elauksap/focus-beamertheme
+catalogue-ctan /macros/latex/contrib/beamer-contrib/themes/beamertheme-focus
+catalogue-date 2019-06-27 13:19:15 +0200
+catalogue-license gpl3
+catalogue-topics presentation
+catalogue-version 2.4

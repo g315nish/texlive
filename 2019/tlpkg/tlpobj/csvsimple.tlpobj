@@ -1,0 +1,37 @@
+name csvsimple
+category Package
+revision 51010
+shortdesc Simple CSV file processing
+longdesc The package provides a simple LaTeX interface for the
+longdesc processing of files with comma separated values (CSV); it
+longdesc relies on the key value syntax supported by pgfkeys to simplify
+longdesc usage. Filtering and table generation are especially supported;
+longdesc however, this lightweight tool offers no support for data
+longdesc sorting or data base storage. The package depends on etoolbox,
+longdesc ifthen, pgfrcs, pgfkeys, and shellesc.
+containersize 5568
+containerchecksum c071fb93d269e27c7059919213a858d82bb5fc381d8a9a0faf82ad0b05eaac808dbfc19c30c8530a98582f3179a01774de78b0f290a15d4ef79e06eef0a9aba8
+doccontainersize 752344
+doccontainerchecksum da691d9d44e1624ccab48e5979ae9ecb8697387a19280602c28467c8f2aefbafc494067217836a09a6ba1a653c8fd3a7903e3607ca56922ebf47870bea49c583
+docfiles size=246
+ texmf-dist/doc/latex/csvsimple/CHANGES
+ texmf-dist/doc/latex/csvsimple/README details="Readme" language="en"
+ texmf-dist/doc/latex/csvsimple/amountsort.xml
+ texmf-dist/doc/latex/csvsimple/catsort.xml
+ texmf-dist/doc/latex/csvsimple/csvsimple-example.pdf details="example of use" language="en"
+ texmf-dist/doc/latex/csvsimple/csvsimple-example.tex
+ texmf-dist/doc/latex/csvsimple/csvsimple.pdf details="Package documentation" language="en"
+ texmf-dist/doc/latex/csvsimple/csvsimple.tex
+ texmf-dist/doc/latex/csvsimple/encoding.xml
+ texmf-dist/doc/latex/csvsimple/gradesort.xml
+ texmf-dist/doc/latex/csvsimple/matriculationsort.xml
+ texmf-dist/doc/latex/csvsimple/namesort.xml
+ texmf-dist/doc/latex/csvsimple/transform.xml
+runfiles size=7
+ texmf-dist/tex/latex/csvsimple/csvsimple.sty
+catalogue-also csvtools datatool
+catalogue-ctan /macros/latex/contrib/csvsimple
+catalogue-date 2019-04-28 12:45:29 +0200
+catalogue-license lppl1.3
+catalogue-topics data-import data-disp csv-support
+catalogue-version 1.21

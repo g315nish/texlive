@@ -1,0 +1,8 @@
+name eplain.win32
+category Package
+revision 36810
+shortdesc win32 files of eplain
+containersize 872
+containerchecksum 15ab94f809a3de637daf765702e67049f240efd2fad0d7bfbe64f14d10bbafa83b725b9efba8d752dcf75006a27a1a05150f9da5be8e9702ebd8837491c5ea28
+binfiles arch=win32 size=1
+ bin/win32/eplain.exe

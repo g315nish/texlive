@@ -1,0 +1,78 @@
+name bitter
+category Package
+revision 51086
+shortdesc LaTeX support for the Bitter family of fonts
+longdesc This package provides LaTeX, pdfLaTeX, XeLaTeX and LuaLaTeX
+longdesc support for the Bitter family of fonts, designed by Sol Matas
+longdesc for Huerta Tipografica Bitter is a contemporary slab-serif
+longdesc typeface for text. There are regular and bold weights and an
+longdesc italic, but no bold italic.
+execute addMap bitter.map
+containersize 191556
+containerchecksum edb101df2026b97585f8f5ca712a4bf41f5a2a15122a0e51448fcf1bdfe532bd7f70315644935a942bacdd431db4ff48ebc8b119cbf5d758909560eb2c942633
+doccontainersize 16644
+doccontainerchecksum 926e4a3e7e19ed8571e23afc779be014c3b451d9696ef8d552d6c7f9072c9ccac2eb3ebd68adbb247d7238b0e4786594f85aaecd65b91ddf883e81f20222f29c
+docfiles size=8
+ texmf-dist/doc/fonts/bitter/OFL.txt
+ texmf-dist/doc/fonts/bitter/README details="Readme"
+ texmf-dist/doc/fonts/bitter/bitter-samples.pdf details="Package documentation"
+ texmf-dist/doc/fonts/bitter/bitter-samples.tex
+runfiles size=116
+ texmf-dist/fonts/enc/dvips/bitter/btr_6upxhe.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_72jdjw.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_azarls.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_b5i5mx.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_f2umud.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_gljolu.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_ncjtqa.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_ssdm5h.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_vzfpnj.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_w3wxei.enc
+ texmf-dist/fonts/enc/dvips/bitter/btr_x2bjkb.enc
+ texmf-dist/fonts/map/dvips/bitter/bitter.map
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Bold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-t1.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/huerta/bitter/Bitter-Regular-tlf-ts1.tfm
+ texmf-dist/fonts/truetype/huerta/bitter/Bitter-Bold.ttf
+ texmf-dist/fonts/truetype/huerta/bitter/Bitter-Italic.ttf
+ texmf-dist/fonts/truetype/huerta/bitter/Bitter-Regular.ttf
+ texmf-dist/fonts/type1/huerta/bitter/Bitter-Bold.pfb
+ texmf-dist/fonts/type1/huerta/bitter/Bitter-Italic.pfb
+ texmf-dist/fonts/type1/huerta/bitter/Bitter-Regular.pfb
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Bold-tlf-ly1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Bold-tlf-t1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Bold-tlf-ts1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Italic-tlf-ly1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Regular-tlf-ly1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Regular-tlf-t1.vf
+ texmf-dist/fonts/vf/huerta/bitter/Bitter-Regular-tlf-ts1.vf
+ texmf-dist/tex/latex/bitter/LY1Bitter-TLF.fd
+ texmf-dist/tex/latex/bitter/OT1Bitter-TLF.fd
+ texmf-dist/tex/latex/bitter/T1Bitter-TLF.fd
+ texmf-dist/tex/latex/bitter/TS1Bitter-TLF.fd
+ texmf-dist/tex/latex/bitter/bitter.sty
+catalogue-contact-home https://fonts.google.com/specimen/Bitter
+catalogue-ctan /fonts/bitter
+catalogue-date 2019-05-11 18:45:21 +0200
+catalogue-license lpplofl
+catalogue-topics font font-serif font-proportional font-body font-ttf font-type1 font-t1enc

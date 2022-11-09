@@ -1,0 +1,8 @@
+name ctie.win32
+category TLCore
+revision 50155
+shortdesc win32 files of ctie
+containersize 6848
+containerchecksum 6c30a5641707e50e6060ddb9dd45acfebd03f7886ab5c7c86243d28eac01edaf67f5cac68ea979a131893ced22a8a9bb50c1e28e228ec207d239e8a4e0b107d5
+binfiles arch=win32 size=4
+ bin/win32/ctie.exe

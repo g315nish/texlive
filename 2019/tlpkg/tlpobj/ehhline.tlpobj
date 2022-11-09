@@ -1,0 +1,24 @@
+name ehhline
+category Package
+revision 51122
+shortdesc Extend the \hhline command
+longdesc This package extends the \hhline command with a !{...} token,
+longdesc which allows to create lines with arbitrary LaTeX commands.
+containersize 1500
+containerchecksum d0549e354c34d1ad76502ccfd565292074a8e1aa72f021c9efd8dcb39ce9465ccfb0add899226775e82e9e90ad27a7980d5f79fc8a5a71a449a8a17845384918
+doccontainersize 31148
+doccontainerchecksum a3c436900a964fecb613469c5beca557a0f923d1c651591d9b884f88f127c435081a5fbd2f4129041f5438536901feaa4697b59a011064a4b4822ef6ecea5068
+docfiles size=10
+ texmf-dist/doc/latex/ehhline/README details="Readme"
+ texmf-dist/doc/latex/ehhline/ehhline.pdf details="Package documentation"
+ texmf-dist/doc/latex/ehhline/ehhline.tex
+runfiles size=1
+ texmf-dist/tex/latex/ehhline/ehhline.sty
+catalogue-also hhline
+catalogue-contact-bugs https://bitbucket.org/OpCode-eu-org/latex-libs/issues
+catalogue-contact-repository https://bitbucket.org/OpCode-eu-org/LaTeX-libs/
+catalogue-ctan /macros/latex/contrib/ehhline
+catalogue-date 2019-05-14 14:47:30 +0200
+catalogue-license mit
+catalogue-topics table-rule
+catalogue-version 1.0

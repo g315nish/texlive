@@ -1,0 +1,13 @@
+name dviljk.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dviljk
+containersize 45564
+containerchecksum 16473fef0b0ed38673a28fb42004dadb71b166849f29a52869f009559719f5101d9f7cd8a93d748da67d7bac1d48b0cacf2964c0c8dae9a3f74cd358b423f63a
+binfiles arch=win32 size=54
+ bin/win32/dvihp.exe
+ bin/win32/dvilj.exe
+ bin/win32/dvilj2p.exe
+ bin/win32/dvilj4.exe
+ bin/win32/dvilj4l.exe
+ bin/win32/dvilj6.exe

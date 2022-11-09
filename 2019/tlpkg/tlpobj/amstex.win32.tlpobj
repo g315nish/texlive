@@ -1,0 +1,8 @@
+name amstex.win32
+category Package
+revision 36810
+shortdesc win32 files of amstex
+containersize 872
+containerchecksum e28f2e25ad449f99ce0b26baef354ca3bf55cbbd9f51129446ca9089be30f263130c48f77d79019d0290de65949053e0b2996e8cf948a1864c30f97252eb29dc
+binfiles arch=win32 size=1
+ bin/win32/amstex.exe

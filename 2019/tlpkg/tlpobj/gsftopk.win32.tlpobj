@@ -1,0 +1,8 @@
+name gsftopk.win32
+category TLCore
+revision 51902
+shortdesc win32 files of gsftopk
+containersize 12976
+containerchecksum 9f32a0e091f08127547063c2479863fb0c4a982a33fac702f66696348874681b6d3faedc14302cca42846d18300a287c5f4b5401e985e337698a85b432991956
+binfiles arch=win32 size=6
+ bin/win32/gsftopk.exe

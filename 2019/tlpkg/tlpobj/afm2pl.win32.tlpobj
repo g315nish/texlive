@@ -1,0 +1,8 @@
+name afm2pl.win32
+category TLCore
+revision 50155
+shortdesc win32 files of afm2pl
+containersize 14724
+containerchecksum 92bd9267e49e13641ca3f53ade5b765027b5646e690cea93314908289a8da6ea6205805ed96fc1b804fe68a23d0255593220419bfe41ff289831de46b56de1b7
+binfiles arch=win32 size=9
+ bin/win32/afm2pl.exe

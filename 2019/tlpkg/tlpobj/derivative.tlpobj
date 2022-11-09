@@ -1,0 +1,28 @@
+name derivative
+category Package
+revision 52141
+shortdesc Nice and easy derivatives
+longdesc This package provides a set of commands \NewOdvVariant,
+longdesc \NewPdvVariant etc. that can be used to define derivatives.
+longdesc Each derivative comes with a great number of options that tweak
+longdesc the derivative's format to your liking. The following types of
+longdesc derivatives come readily defined: \odv Ordinary derivative,
+longdesc \pdv Partial derivative, \fdv Functional derivative, \mdv
+longdesc Material derivative, \adv Average rate of change, \jdv
+longdesc Jacobian.
+containersize 6884
+containerchecksum b0fa98877855c265cc0f0973a0b848924f189f445403461f22998dad4bb470ecd5b117075de8e2cfc1292eea27d93b258a1fa0ac1c005463f645ee6009e08315
+doccontainersize 196956
+doccontainerchecksum 1247f1977d624e4f00b505c4758b1463d03768c4d47e6bae368965566bb7d6d0589951d0c356dfe024245d93e8d8f0f584d3809273e7474beb8f5bd100ddbfa3
+docfiles size=72
+ texmf-dist/doc/latex/derivative/README.md details="Readme"
+ texmf-dist/doc/latex/derivative/derivative.pdf details="Package documentation"
+ texmf-dist/doc/latex/derivative/derivative.tex
+runfiles size=11
+ texmf-dist/tex/latex/derivative/derivative.sty
+catalogue-also diffcoeff
+catalogue-ctan /macros/latex/contrib/derivative
+catalogue-date 2019-09-21 11:42:52 +0200
+catalogue-license lppl1.3
+catalogue-topics maths expl3
+catalogue-version 0.95b

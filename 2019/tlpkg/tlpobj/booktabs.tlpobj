@@ -1,0 +1,28 @@
+name booktabs
+category Package
+revision 52326
+shortdesc Publication quality tables in LaTeX
+longdesc The package enhances the quality of tables in LaTeX, providing
+longdesc extra commands as well as behind-the-scenes optimisation.
+longdesc Guidelines are given as to what constitutes a good table in
+longdesc this context. From version 1.61, the package offers longtable
+longdesc compatibility.
+containersize 2216
+containerchecksum 54647cc2c7807baefe85a94f0be70a44923183d219e0ebefecad5df0c44080014e9b3ed8296dd9c1d1810deb148168c34e90625c58181af07b561a96c1fbcd46
+doccontainersize 296736
+doccontainerchecksum 0be929de9e5b20be5df76696a78c57a5282bf0875f9da27fc13b188dabc0bb699e10e66d8660617604299f0367b19edeb40cf7891dc8421d367a18b3c7b3d112
+docfiles size=74
+ texmf-dist/doc/latex/booktabs/README details="Readme"
+ texmf-dist/doc/latex/booktabs/booktabs.pdf details="Package documentation (English)" language="en"
+srccontainersize 14564
+srccontainerchecksum 58e7fbb298b931b0666b3a91c18dc596404912786418f360c059e7c3d49f262af612371b97c5bdb140c5c9d11b8dfc8caa52305cf187ebece6aa71f73d72dd98
+srcfiles size=12
+ texmf-dist/source/latex/booktabs/booktabs.dtx
+ texmf-dist/source/latex/booktabs/booktabs.ins
+runfiles size=2
+ texmf-dist/tex/latex/booktabs/booktabs.sty
+catalogue-ctan /macros/latex/contrib/booktabs
+catalogue-date 2019-10-08 12:54:56 +0200
+catalogue-license lppl1.3
+catalogue-topics table table-rule
+catalogue-version 1.6180339

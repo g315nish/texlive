@@ -1,0 +1,8 @@
+name dvisvgm.win32
+category TLCore
+revision 51266
+shortdesc win32 files of dvisvgm
+containersize 1418564
+containerchecksum 31825dfaaf13fa7549d5ba6d939b49be2ac12da1883d60cac876c33940b5dbc6ce4182ccade0c7b83f581f2dfd95e05b4b3e99590db60168d3cf7a2542ec9c8e
+binfiles arch=win32 size=1657
+ bin/win32/dvisvgm.exe

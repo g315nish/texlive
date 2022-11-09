@@ -1,0 +1,50 @@
+name els-cas-templates
+category Package
+revision 50820
+shortdesc Elsevier CAS LaTeX templates
+longdesc This bundle provides two class and corresponding template files
+longdesc for typesetting journal articles supposed to go through
+longdesc Elsevier's Complex Article Service (CAS) workflow. One of the
+longdesc sets is meant for one-column, the other for two-column layout.
+longdesc These are now accepted for submitting articles both in
+longdesc Elsevier's electronic submission system and elsewhere.
+containersize 20096
+containerchecksum 23197c9c87b21b92dde909aac95128b0e92d1510a98479d739ee38cf05f5873538bc5d558181bbe62ddf24f5ec1e62a06bd42fd4b7abf73d99bd27bb70a566ea
+doccontainersize 547212
+doccontainerchecksum d32781a8dc8b9182f2e1ecaecc3a952bb4b05d596dacc6346a45730f0d43a1b786b175dc45d4acf15279f6b0795f4d7227ddcd350f32b0464f3debb1ddddd7ba
+docfiles size=338
+ texmf-dist/doc/latex/els-cas-templates/README details="Readme"
+ texmf-dist/doc/latex/els-cas-templates/cas-dc-template.pdf details="Example of use (double column)"
+ texmf-dist/doc/latex/els-cas-templates/cas-dc-template.tex
+ texmf-dist/doc/latex/els-cas-templates/cas-refs.bib
+ texmf-dist/doc/latex/els-cas-templates/cas-sc-template.pdf details="Example of use (single column)"
+ texmf-dist/doc/latex/els-cas-templates/cas-sc-template.tex
+ texmf-dist/doc/latex/els-cas-templates/doc/dc-sample.pdf
+ texmf-dist/doc/latex/els-cas-templates/doc/elsdoc-cas.pdf details="Package documentation"
+ texmf-dist/doc/latex/els-cas-templates/doc/elsdoc-cas.tex
+ texmf-dist/doc/latex/els-cas-templates/doc/makefile
+ texmf-dist/doc/latex/els-cas-templates/doc/pdfwidgets.sty
+ texmf-dist/doc/latex/els-cas-templates/doc/rvdtx.sty
+ texmf-dist/doc/latex/els-cas-templates/doc/sc-sample.pdf
+ texmf-dist/doc/latex/els-cas-templates/figs/Fig1.pdf
+ texmf-dist/doc/latex/els-cas-templates/figs/Fig2.pdf
+ texmf-dist/doc/latex/els-cas-templates/figs/Fig3.pdf
+ texmf-dist/doc/latex/els-cas-templates/figs/grabs.pdf
+ texmf-dist/doc/latex/els-cas-templates/figs/pic1.pdf
+ texmf-dist/doc/latex/els-cas-templates/manifest.txt
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-email.jpeg
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-facebook.jpeg
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-gplus.jpeg
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-linkedin.jpeg
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-twitter.jpeg
+ texmf-dist/doc/latex/els-cas-templates/thumbnails/cas-url.jpeg
+runfiles size=29
+ texmf-dist/bibtex/bst/els-cas-templates/cas-model2-names.bst
+ texmf-dist/tex/latex/els-cas-templates/cas-common.sty
+ texmf-dist/tex/latex/els-cas-templates/cas-dc.cls
+ texmf-dist/tex/latex/els-cas-templates/cas-sc.cls
+catalogue-ctan /macros/latex/contrib/els-cas-templates
+catalogue-date 2019-04-05 18:15:15 +0200
+catalogue-license lppl1.2
+catalogue-topics class journalpub
+catalogue-version 1.0

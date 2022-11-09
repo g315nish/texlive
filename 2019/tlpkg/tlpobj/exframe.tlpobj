@@ -1,0 +1,41 @@
+name exframe
+category Package
+revision 51388
+shortdesc Framework for exercise problems
+longdesc This LaTeX2e package provides a general purpose framework to
+longdesc describe and typeset exercises and exam questions along with
+longdesc their solutions. The package features mechanisms to hide or
+longdesc postpone solutions, to assign and handle points, to collect
+longdesc problems on exercise sheets, to store and use metadata, and to
+longdesc implement a consistent numbering. It also provides a very
+longdesc flexible interface for configuring and customising the
+longdesc formatting, layout, and representation of the exercise content.
+containersize 9776
+containerchecksum 36fc2c125586780b798225fd4f3bd5d089236b7d0b19fadaa92911fbc47e9bd47cb5d6e6f31e42262c72d9ac1053999ba41a4dd23054abfa43283b7a0e957b75
+doccontainersize 381648
+doccontainerchecksum 9697e6388b7a1c1ab96ab945d5da34249425c460230b9508d9c3386f3c2ce0d969a2dbc20cec96a3390feb3e81bbd71ea13646af3982f266dc73031d3663ce6f
+docfiles size=109
+ texmf-dist/doc/latex/exframe/README.txt details="Readme"
+ texmf-dist/doc/latex/exframe/exframe.pdf details="Package documentation"
+ texmf-dist/doc/latex/exframe/exfsamp.tex
+ texmf-dist/doc/latex/exframe/exfser01.tex
+ texmf-dist/doc/latex/exframe/exfser02.tex
+ texmf-dist/doc/latex/exframe/exfser03.tex
+ texmf-dist/doc/latex/exframe/exfseraa.tex
+ texmf-dist/doc/latex/exframe/exfserm.tex
+ texmf-dist/doc/latex/exframe/exfsermk.mak
+ texmf-dist/doc/latex/exframe/exfsermk.sh
+ texmf-dist/doc/latex/exframe/exfserpe.tex
+ texmf-dist/doc/latex/exframe/exfserpf.tex
+srccontainersize 39752
+srccontainerchecksum b8348107fd677a900e4a8f3f5557d9b2fd6cf154359a1ed991934f74db331725ba1c790b99b9f291dd975873050f5cb5dc42f9a094839b8d482c08e9c80a2dc1
+srcfiles size=53
+ texmf-dist/source/latex/exframe/exframe.dtx
+ texmf-dist/source/latex/exframe/exframe.ins
+runfiles size=15
+ texmf-dist/tex/latex/exframe/exframe.sty
+catalogue-ctan /macros/latex/contrib/exframe
+catalogue-date 2019-06-16 08:35:04 +0200
+catalogue-license lppl1.3
+catalogue-topics exam exercise
+catalogue-version 3.3

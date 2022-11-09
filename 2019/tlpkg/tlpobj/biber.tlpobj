@@ -1,0 +1,36 @@
+name biber
+category Package
+revision 51952
+shortdesc A BibTeX replacement for users of BibLaTeX
+longdesc Biber is a BibTeX replacement for users of BibLaTeX. Biber
+longdesc supports full UTF-8, can (re)-encode input and output, supports
+longdesc highly configurable sorting, dynamic bibliography sets and many
+longdesc other features. The CTAN distribution offers a compressed tar
+longdesc archive of the sources, etc., together with "binary"
+longdesc distributions for a variety of platforms. Note: on SourceForge
+longdesc biber is formally named "biblatex-biber", to distinguish it
+longdesc from an earlier (now apparently moribund) project called
+longdesc "biber".
+depend biber.ARCH
+containersize 756
+containerchecksum 38906d5a99cbe59e2e078c936f6f4d0809b5561b4f218edb3bef0a8125158781d3e511caa2dfb14fef6a426f00e4a5418fa33d6d890371f4bc36425ff9531145
+doccontainersize 259380
+doccontainerchecksum b33190ae07d73e7cf8eba7a23ebc8854ff904d7b8aecd92ab302f011277ab9055252aee31d69f2777d6d312605786417d942d8ea9d0520b0291b360cd6c706a5
+docfiles size=65
+ texmf-dist/doc/bibtex/biber/biber.pdf details="Manual"
+srccontainersize 872052
+srccontainerchecksum a630725fee902e8e36d6da5b7e0402fb480f41acc1c7fb0b4a25db1a2118d64bb25e63628c8920a6eb5c881154d553a6217923b1358ec1ae05cc7fec03b1f0e1
+srcfiles size=275
+ texmf-dist/source/bibtex/biber/Changes
+ texmf-dist/source/bibtex/biber/README.md
+ texmf-dist/source/bibtex/biber/biblatex-biber.tar.gz
+ texmf-dist/source/bibtex/biber/utf8-macro-map.html
+catalogue-also bibtex crosstex biblatex
+catalogue-contact-bugs https://github.com/plk/biber/issues
+catalogue-contact-home http://biblatex-biber.sourceforge.net/
+catalogue-contact-repository https://github.com/plk/biber
+catalogue-ctan /biblio/biber
+catalogue-date 2019-08-24 15:26:32 +0200
+catalogue-license artistic2
+catalogue-topics biblio
+catalogue-version 2.13

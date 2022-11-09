@@ -1,0 +1,8 @@
+name biber.win32
+category Package
+revision 51952
+shortdesc win32 files of biber
+containersize 21448644
+containerchecksum c3d268046f5938916afd3cec9ed6d829bd4cc649930ec5a7d4b4e0c4ad0131ee18944f099d49a3d9fa0986537d17b06d5813bdf3c67c8fd2e3a398f8a1fc441a
+binfiles arch=win32 size=6761
+ bin/win32/biber.exe

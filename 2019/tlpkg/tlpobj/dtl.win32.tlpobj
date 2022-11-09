@@ -1,0 +1,9 @@
+name dtl.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dtl
+containersize 15868
+containerchecksum 52a632abda8c4dd282ddbae313edd8a8196d72d9e1aa87819e3aac6cddaa3ff5e609895d4000eaaf41a017c5d6e71e3e95d350f462e78796e82b66b69bc2e22f
+binfiles arch=win32 size=12
+ bin/win32/dt2dv.exe
+ bin/win32/dv2dt.exe

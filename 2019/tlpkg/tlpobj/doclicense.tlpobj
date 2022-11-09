@@ -1,0 +1,90 @@
+name doclicense
+category Package
+revision 51332
+shortdesc Support for putting documents under a license
+longdesc This package allows you to put your document under a license
+longdesc and include a link to read about the license or include an icon
+longdesc or image of the license. Currently, only Creative Commons is
+longdesc supported, but this package is designed to handle all kinds of
+longdesc licenses.
+containersize 75188
+containerchecksum a66bae24e43e619dfed88b039b8fd44143a1ee1c94a7764d49f7e5d7920f041deb66c8c0ebc91ddc19e7725895a5e5793196724b45945cd31675765caf06a236
+doccontainersize 427680
+doccontainerchecksum d0388a64e6679007965b2c1075d730f6b25a08431bf9bacfa8cab8890ea809150c334c96730d8170515b552e5743784c07424ba34d9033669d8463744b5ed5e8
+docfiles size=107
+ texmf-dist/doc/latex/doclicense/README details="Readme"
+ texmf-dist/doc/latex/doclicense/doclicense.pdf details="Package documentation"
+srccontainersize 8800
+srccontainerchecksum 6c40642c3bc7eba7949da51c7703aab84033596f541d0fc433d5bced75c8be4666b4fd43f6b81119a3e4c2e73a7776aa452df2be544b91ff97c827b925a3df93
+srcfiles size=9
+ texmf-dist/source/latex/doclicense/doclicense.dtx
+ texmf-dist/source/latex/doclicense/doclicense.ins
+runfiles size=180
+ texmf-dist/tex/latex/doclicense/doclicense-UKenglish.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-USenglish.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-acadian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-american.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-australian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-brazilian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-british.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-canadian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-canadien.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-catalan.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-chinese-gbk.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-chinese-utf8.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-english.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-french.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-galician.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-german.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-italian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-newzealand.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-ngerman.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-polish.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-portuguese.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-russian.ldf
+ texmf-dist/tex/latex/doclicense/doclicense-spanish.ldf
+ texmf-dist/tex/latex/doclicense/doclicense.sty
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-eu.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-nd-eu.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-nd.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa-eu.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nd.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-sa.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-by.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-pd.pdf
+ texmf-dist/tex/latex/doclicense/images/doclicense-CC-zero.pdf
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-nd-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-nd-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-nd-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-nd-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-sa-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-sa-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-sa-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nc-sa-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nd-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nd-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nd-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-nd-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-sa-3.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-sa-3.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-sa-4.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-by-sa-4.0-plaintext.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-zero-1.0-latex.tex
+ texmf-dist/tex/latex/doclicense/license-texts/doclicense-CC-zero-1.0-plaintext.tex
+catalogue-contact-bugs https://github.com/ypid/latex-packages/issues
+catalogue-contact-repository https://github.com/ypid/latex-packages/tree/master/doclicense
+catalogue-ctan /macros/latex/contrib/doclicense
+catalogue-date 2019-06-06 05:50:08 +0200
+catalogue-license lppl1.3
+catalogue-topics licence-mgmt
+catalogue-version 1.10.0

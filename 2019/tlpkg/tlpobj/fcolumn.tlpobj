@@ -1,0 +1,29 @@
+name fcolumn
+category Package
+revision 50937
+shortdesc Typesetting financial tables
+longdesc In financial reports, text and currency amounts are regularly
+longdesc put in one table, e.g., a year balance or a profit-and-loss
+longdesc overview. This package provides the settings for automatically
+longdesc typesetting such columns, including the sum line (preceded by a
+longdesc rule of the correct width) using the specifier "f".
+containersize 3720
+containerchecksum 13128f25e12c914bf25c45c87a75bad814eab519059c8a478162cd4fc678972ed8e24800042e87866197174044eaf9f90d3cd3a8eca62f33400e3fd2294922c8
+doccontainersize 282276
+doccontainerchecksum ae0645744e26bbf1a940ba1339256b7d718f4df819ad04f5f52301a26d445cbce4a1ae4bfa2fe6d13bb81ed31e94839d87a251a7429305d396a56ea113df37bb
+docfiles size=71
+ texmf-dist/doc/latex/fcolumn/README details="Readme"
+ texmf-dist/doc/latex/fcolumn/fcolumn.pdf details="Package documentation"
+ texmf-dist/doc/latex/fcolumn/makefile
+srccontainersize 18300
+srccontainerchecksum 47b78b21332aeba11b08ed6f4eaf781b182c224450b508a48a80ca7f93ffb43c4cc818739d3793ca16674b29fbfeeed320247170c63a4aa321f6054610fe782b
+srcfiles size=15
+ texmf-dist/source/latex/fcolumn/fcolumn.dtx
+ texmf-dist/source/latex/fcolumn/fcolumn.ins
+runfiles size=3
+ texmf-dist/tex/latex/fcolumn/fcolumn.sty
+catalogue-ctan /macros/latex/contrib/fcolumn
+catalogue-date 2019-04-24 23:00:04 +0200
+catalogue-license lppl1.3
+catalogue-topics table
+catalogue-version 1.2

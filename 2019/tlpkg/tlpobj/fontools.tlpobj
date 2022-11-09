@@ -1,0 +1,44 @@
+name fontools
+category Package
+revision 52291
+shortdesc Tools to simplify using fonts (especially TT/OTF ones)
+longdesc This package provides a few tools to ease using fonts
+longdesc (especially TrueType/OpenType ones) with LaTeX and fontinst:
+longdesc afm2afm - reencode .afm files; designed to replace fontinst's
+longdesc \reencodefont for big .afm files; autoinst - simplify the use
+longdesc of the LCDF TypeTools by creating a command file for otftotfm,
+longdesc plus .fd and .sty files; and ot2kpx - extract all kerning pairs
+longdesc from an OpenType font.
+depend fontools.ARCH
+containersize 43180
+containerchecksum 3d9635c6081f59b702107628f45df3253544ab4325cda5a53fa95a551c4acc8e067bae8fc863b05d087ab2f7191ecd35b32c7f95fb8a5c0e8c9a1df9eef42271
+doccontainersize 125160
+doccontainerchecksum eb5d0b04751127225964b28230d91e4c8dd9c630c93addc0f2bc19b4e657c874b11c93901c126ebfe83778f5d71f26fed9b7a4c823ef4019660dd0da2085134e
+docfiles size=55
+ texmf-dist/doc/man/man1/afm2afm.1
+ texmf-dist/doc/man/man1/afm2afm.man1.pdf
+ texmf-dist/doc/man/man1/autoinst.1
+ texmf-dist/doc/man/man1/autoinst.man1.pdf
+ texmf-dist/doc/man/man1/ot2kpx.1
+ texmf-dist/doc/man/man1/ot2kpx.man1.pdf
+ texmf-dist/doc/support/fontools/GPLv2.txt
+ texmf-dist/doc/support/fontools/README details="Bundle readme"
+ texmf-dist/doc/support/fontools/splitttc
+runfiles size=50
+ texmf-dist/fonts/enc/dvips/fontools/fontools_lgr.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ly1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ot1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2a.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2b.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2c.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t3.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ts1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ts3.enc
+ texmf-dist/scripts/fontools/afm2afm
+ texmf-dist/scripts/fontools/autoinst
+ texmf-dist/scripts/fontools/ot2kpx
+catalogue-ctan /fonts/utilities/fontools
+catalogue-date 2019-10-01 21:41:53 +0200
+catalogue-license gpl2
+catalogue-topics font-devel

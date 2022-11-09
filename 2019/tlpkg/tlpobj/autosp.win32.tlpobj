@@ -1,0 +1,9 @@
+name autosp.win32
+category Package
+revision 50155
+shortdesc win32 files of autosp
+containersize 19584
+containerchecksum 25a55f89cf1655440e06f87465ae36d7d72077ef04ed85b86315de8bdb51b280e0bd4c3c542dc644feed9c10bd333e91c239fd2d28cf23314e76ab1af86ed241
+binfiles arch=win32 size=13
+ bin/win32/autosp.exe
+ bin/win32/tex2aspc.exe

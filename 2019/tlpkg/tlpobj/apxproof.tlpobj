@@ -1,0 +1,39 @@
+name apxproof
+category Package
+revision 52324
+shortdesc Proofs in appendix
+longdesc The package makes it easier to write articles where proofs and
+longdesc other material are deferred to the appendix. The appendix
+longdesc material is written in the LaTeX code along with the main text
+longdesc which it naturally complements, and it is automatically
+longdesc deferred. The package can automatically send proofs to the
+longdesc appendix, can repeat in the appendix the theorem environments
+longdesc stated in the main text, can section the appendix automatically
+longdesc based on the sectioning of the main text, and supports a
+longdesc separate bibliography for the appendix material. It depends on
+longdesc the following other packages: amsthm, bibunits (if the
+longdesc bibliography option is set to separate), environ, etoolbox,
+longdesc fancyvrb, ifthen, and kvoptions.
+containersize 4132
+containerchecksum 400c95494142780c5359df48864fd5ca48409180220a9efc25c0650889fc84fdb725f7ea263c00ce7afb8099c80d4ef42b601e5b61ae0bd2fb8e68fcdbb673fc
+doccontainersize 565228
+doccontainerchecksum fd818e5ec077a1d479b0bbcc8470a80c396dd5e4b0fd6191c30009f709d8da6de74277e1f162df3595a4de6e10bc88db6290c9b42df37672d8a6aef7047d9164
+docfiles size=144
+ texmf-dist/doc/latex/apxproof/LICENSE
+ texmf-dist/doc/latex/apxproof/README.md details="Readme"
+ texmf-dist/doc/latex/apxproof/apxproof.bib
+ texmf-dist/doc/latex/apxproof/apxproof.pdf details="Package documentation"
+srccontainersize 15236
+srccontainerchecksum 08eb4f6d847ba8d7fb4d19b81f1fcbd21a4d1bad908824fc6739b16d08763f6ba1bf388d5f0dfce29916205d6751983f06f9f4562d44f9284f690fb16fe7cd80
+srcfiles size=16
+ texmf-dist/source/latex/apxproof/apxproof.dtx
+ texmf-dist/source/latex/apxproof/apxproof.ins
+runfiles size=4
+ texmf-dist/tex/latex/apxproof/apxproof.sty
+catalogue-contact-bugs https://github.com/PierreSenellart/apxproof/issues
+catalogue-contact-repository https://github.com/PierreSenellart/apxproof
+catalogue-ctan /macros/latex/contrib/apxproof
+catalogue-date 2019-10-08 10:32:50 +0200
+catalogue-license lppl1.3
+catalogue-topics proof appendix
+catalogue-version 1.2.0

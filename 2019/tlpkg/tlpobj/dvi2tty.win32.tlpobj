@@ -1,0 +1,9 @@
+name dvi2tty.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dvi2tty
+containersize 88096
+containerchecksum 1df64ffd15a7b310d9ad971238a898721284adafe02391f63d0fe3d8eef74b9d0319e15e4ffa730e3aee81262da3491f72101d6105975463a961d456d623ac26
+binfiles arch=win32 size=53
+ bin/win32/disdvi.exe
+ bin/win32/dvi2tty.exe

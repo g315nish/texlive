@@ -1,0 +1,41 @@
+name autosp
+category Package
+revision 52236
+shortdesc A Preprocessor that generates note-spacing commands for MusiXTeX scores
+longdesc This program simplifies the creation of MusiXTeX scores by
+longdesc converting (non-standard) commands of the form \anotes ... \en
+longdesc into one or more conventional note-spacing commands, as
+longdesc determined by the note values themselves, with \sk spacing
+longdesc commands inserted as necessary. The coding for an entire
+longdesc measure can be entered one part at a time, without concern for
+longdesc note-spacing changes within the part or spacing requirements of
+longdesc other parts. For example, \anotes\qa J\qa K&\ca l\qa m\ca n\en
+longdesc generates \Notes\qa J\sk\qa K\sk&\ca l\qa m\sk\ca n\en .
+depend autosp.ARCH
+containersize 716
+containerchecksum dbf678612287af08bf9262467033c6aa69f6114886b3e681715f91abe232466a87d32a571b3d5261c31a4f07c9999a63ad08649691a7620702b9994845f2a386
+doccontainersize 276548
+doccontainerchecksum 354d5a8d1cc6ef32b821e84957c9e19b4567495cf5cec72bfd25df2bf6bbbde0c6abadb3034edb356ccc758f28beef0198e112f5dc48ab731c5f26fec3f4e671
+docfiles size=106
+ texmf-dist/doc/generic/autosp/README details="Readme"
+ texmf-dist/doc/generic/autosp/barsant2.aspc
+ texmf-dist/doc/generic/autosp/barsant2.pdf
+ texmf-dist/doc/generic/autosp/geminiani.aspc
+ texmf-dist/doc/generic/autosp/geminiani.pdf
+ texmf-dist/doc/generic/autosp/kinder2.aspc
+ texmf-dist/doc/generic/autosp/kinder2.pdf
+ texmf-dist/doc/generic/autosp/quod2.aspc
+ texmf-dist/doc/generic/autosp/quod2.pdf
+ texmf-dist/doc/generic/autosp/quod2A.aspc
+ texmf-dist/doc/generic/autosp/quod2A.pdf
+ texmf-dist/doc/generic/autosp/rebar.1
+ texmf-dist/doc/generic/autosp/rebar.pdf
+ texmf-dist/doc/man/man1/autosp.1
+ texmf-dist/doc/man/man1/autosp.man1.pdf
+ texmf-dist/doc/man/man1/tex2aspc.1
+ texmf-dist/doc/man/man1/tex2aspc.man1.pdf
+catalogue-contact-support https://tug.org/mailman/listinfo/tex-music
+catalogue-ctan /support/autosp
+catalogue-date 2019-08-28 21:55:31 +0200
+catalogue-license gpl2+
+catalogue-topics music

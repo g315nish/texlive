@@ -1,0 +1,39 @@
+name guitlogo
+category Package
+revision 51582
+shortdesc Macros for typesetting the GuIT logo
+longdesc This package provides some commands useful to correctly write
+longdesc the logo of "Gruppo Utilizzatori Italiani di TeX" (Italian TeX
+longdesc User Group), using the default document color or any other
+longdesc color the user may ever choose, in conformity with the logo's
+longdesc scheme as seen on the group's website https://www.guitex.org.
+longdesc Likewise, commands are provided that simplify the writing of
+longdesc the GuIT acronym's complete expansion, of the addresses of the
+longdesc group's internet site and public forum, and the meeting
+longdesc 'GuITmeeting' and the magazine Ars TeXnica's logo. Optionally,
+longdesc using hyperref, the outputs of the above cited commands can
+longdesc become hyperlinks to the group's website
+longdesc https://www.guitex.org. The Documentation is available in
+longdesc Italian only.
+containersize 3392
+containerchecksum c4fff100ff6eb6c73607ce83ec90057a47628d0d354f24176be02c8e9e4f62311c466cf7d8e7ec27787fb83a4c35accfe06d01055ad1db2189c82b9a7277aec7
+doccontainersize 473128
+doccontainerchecksum e60d42b6db1db84688fbc657b854cb17f60657c22e296d13677e462b39090c8e99e83b86227ea65fe60dfb7616619f0459aecdfc6c6725db68567f458d0a4308
+docfiles size=121
+ texmf-dist/doc/latex/guitlogo/README details="Package README" language="it"
+ texmf-dist/doc/latex/guitlogo/guit.pdf details="Package documentation" language="it"
+ texmf-dist/doc/latex/guitlogo/guittest.pdf
+ texmf-dist/doc/latex/guitlogo/guittest.tex
+srccontainersize 17756
+srccontainerchecksum 65773fd849d06d834505c9ee4e97f7ec6d30308550029e5a71756da7f70fdfdb8245bb6f2fa0ceaf2cc3ad5c9b865f7e617df0c763695bd0cca60431da2bbd5d
+srcfiles size=17
+ texmf-dist/source/latex/guitlogo/guit.dtx
+ texmf-dist/source/latex/guitlogo/guit.ins
+runfiles size=4
+ texmf-dist/tex/latex/guitlogo/guit.cfg
+ texmf-dist/tex/latex/guitlogo/guit.sty
+catalogue-ctan /macros/latex/contrib/GuIT/GuITlogo
+catalogue-date 2019-07-08 10:39:21 +0200
+catalogue-license lppl1.3a
+catalogue-topics logo
+catalogue-version 1.0.0-alpha.3

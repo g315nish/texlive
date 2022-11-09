@@ -1,0 +1,29 @@
+name datetime2-serbian
+category Package
+revision 52156
+shortdesc Serbian language module for the datetime2 package
+longdesc This module provides the "serbian" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2876
+containerchecksum d66f09a0b8cda86efcf006ded72eb90c75d6d675ea598048e7003ca8e3d5910d765d202855c3899a5467b71c1fd04e2f0605b8f9ce0aefb0e689567c06333bed
+doccontainersize 77232
+doccontainerchecksum 75e062aaaf56b2d244c15c7f6b84eea54cc6b2eb2177c5f7dc73c2e82d17c4274dcb4df5f37f7f9ea1da3bd3389f206ced0b6024d9ca26c0d8469bb9cc2e6acf
+docfiles size=21
+ texmf-dist/doc/latex/datetime2-serbian/README details="Readme"
+ texmf-dist/doc/latex/datetime2-serbian/datetime2-serbian.pdf details="Package documentation"
+srccontainersize 5196
+srccontainerchecksum 2a55f815e7d93bc99d7f0c7ce775ce9e09624ef96c91605b66eb30f7b4434be5c3cad995d25ea30ec59761bd4553ec02157c1dd1ebfdc8429db1855b2becc871
+srcfiles size=6
+ texmf-dist/source/latex/datetime2-serbian/datetime2-serbian.dtx
+ texmf-dist/source/latex/datetime2-serbian/datetime2-serbian.ins
+runfiles size=5
+ texmf-dist/tex/latex/datetime2-serbian/datetime2-serbian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-serbian/datetime2-serbian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-serbian/datetime2-serbian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-serbian
+catalogue-date 2019-09-14 22:53:35 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

@@ -1,0 +1,9 @@
+name cslatex.win32
+category Package
+revision 36810
+shortdesc win32 files of cslatex
+containersize 888
+containerchecksum 1850814ded5605382ae2503fc67297d6ec122331d33f620f355a38a84b0617fd98409d1454f9e6a415b32d392233528cf4fc6cbb794186f5250db0b6a0e8bf75
+binfiles arch=win32 size=2
+ bin/win32/cslatex.exe
+ bin/win32/pdfcslatex.exe

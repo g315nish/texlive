@@ -1,0 +1,26 @@
+name chemnum
+category Package
+revision 52256
+shortdesc A method of numbering chemical compounds
+longdesc The package defines a \label- and \ref-like commands for
+longdesc compound numbers. The package requires LaTeX3 packages expl3
+longdesc (from the l3kernel bundle) as well as xparse and l3keys2e (from
+longdesc the l3packages bundle).
+containersize 11560
+containerchecksum f16b41aec7baa6cb088c008b373ff648b8e801951528b24cbdfbe4ad4d54eab12c64a76e23521396bfcc8ff8cc3089f0da9cf9fad37526d1639547412038f5cf
+doccontainersize 790716
+doccontainerchecksum b9dfe8de349ebcfbafa967668895dbe5bb14cc6f065711f56dbfa5ef771eefda79114cc994f6de2d5d45143740aa9e93543035dfbe6cf1c2628088927e06ab06
+docfiles size=272
+ texmf-dist/doc/latex/chemnum/README details="Readme"
+ texmf-dist/doc/latex/chemnum/chemnum_en.pdf details="Package documentation (English)" language="en"
+ texmf-dist/doc/latex/chemnum/chemnum_en.tex
+ texmf-dist/doc/latex/chemnum/scheme-bla.ps
+ texmf-dist/doc/latex/chemnum/scheme-tmp.ps
+runfiles size=19
+ texmf-dist/tex/latex/chemnum/chemnum.sty
+catalogue-also chemcompounds chemcono
+catalogue-ctan /macros/latex/contrib/chemnum
+catalogue-date 2019-10-02 17:51:21 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry expl3
+catalogue-version 1.2c

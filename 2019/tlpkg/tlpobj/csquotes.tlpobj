@@ -1,0 +1,36 @@
+name csquotes
+category Package
+revision 51091
+shortdesc Context sensitive quotation facilities
+longdesc This package provides advanced facilities for inline and
+longdesc display quotations. It is designed for a wide range of tasks
+longdesc ranging from the most simple applications to the more complex
+longdesc demands of formal quotations. The facilities include commands,
+longdesc environments, and user-definable 'smart quotes' which
+longdesc dynamically adjust to their context. Quotation marks are
+longdesc switched automatically if quotations are nested and they can be
+longdesc adjusted to the current language if the babel package is
+longdesc available. There are additional facilities designed to cope
+longdesc with the more specific demands of academic writing, especially
+longdesc in the humanities and the social sciences. All quote styles as
+longdesc well as the optional active quotes are freely configurable. The
+longdesc package is dependent on e-TeX, and requires the author's
+longdesc etoolbox package.
+containersize 17612
+containerchecksum c3c8bb734145ab42ff388c08263af3b16e21dcb1995f05f91ea6fc6028d9c3c5f4c268aa9c2902e95dbe15e3bb5e01defe2d2360a8aedcf0c8ef5163ea400067
+doccontainersize 314004
+doccontainerchecksum 0110c7d89008ff857076cc7a3c41870329d3421f10e6cd5d8ab0237562b01ddc238850e677cd0e4f3d1be4b4b3948c08f831807e37564c7075503969f993310c
+docfiles size=103
+ texmf-dist/doc/latex/csquotes/README.md details="Package README"
+ texmf-dist/doc/latex/csquotes/csquotes.pdf details="Tutorial on use of the package"
+ texmf-dist/doc/latex/csquotes/csquotes.tex
+runfiles size=23
+ texmf-dist/tex/latex/csquotes/csq-compat.def
+ texmf-dist/tex/latex/csquotes/csquotes.cfg
+ texmf-dist/tex/latex/csquotes/csquotes.def
+ texmf-dist/tex/latex/csquotes/csquotes.sty
+catalogue-ctan /macros/latex/contrib/csquotes
+catalogue-date 2019-05-10 23:49:50 +0200
+catalogue-license lppl1.3c
+catalogue-topics quote-marks etex
+catalogue-version 5.2e

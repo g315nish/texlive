@@ -1,0 +1,8 @@
+name dvicopy.win32
+category TLCore
+revision 50155
+shortdesc win32 files of dvicopy
+containersize 24396
+containerchecksum 8d03fe37749b1f80122204d4f33c089552b124577ad11236e685df3ece5aaf91e2809376b96a5b5bb2ed726ad666ac6b17b60e92a7783d910e4bd7f9a257118f
+binfiles arch=win32 size=18
+ bin/win32/dvicopy.exe

@@ -1,0 +1,43 @@
+name fei
+category Package
+revision 52322
+shortdesc Class for academic works at FEI University Center -- Brazil
+longdesc fei is a class created by graduate students and LaTeX
+longdesc enthusiasts that allows students from FEI University Center to
+longdesc create their academic works, be it a monograph, masters
+longdesc dissertation or phd thesis, under the typographic rules of the
+longdesc institution. The class makes it possible to create a full
+longdesc academic work, supporting functionalities such as cover, title
+longdesc page, catalog entry, dedication, summary, lists of figures,
+longdesc tables, algorithms, acronyms and symbols, multiple authors,
+longdesc index, references, appendices and attachments. fei is loosely
+longdesc based in the Brazilian National Standards Organization
+longdesc (Associacao Brasileira de Normas Tecnicas, ABNT) standards for
+longdesc the creation of academic works, such as ABNT NBR 10520:2002
+longdesc (Citations) and ABNT NBR 6023:2002 (Bibliographic References).
+containersize 6532
+containerchecksum ece490df465a83203acbbf0a1002a801534e628fdcaeac7c54536a8e33a633d41fbb26e25ca8cc19677799a2be1f89080f3e9472f4d9bff10c6260ce53692844
+doccontainersize 289844
+doccontainerchecksum b1f97d16b0652a5e19144f652a3e30bd45486ad5de8dd287832a73345539ec6c2a509b1851b5ea6033e8d967c9fd2c997652163510a8554750641a61037d5bf7
+docfiles size=125
+ texmf-dist/doc/latex/fei/README details="Readme"
+ texmf-dist/doc/latex/fei/README.txt
+ texmf-dist/doc/latex/fei/fei-template-sublist.tex
+ texmf-dist/doc/latex/fei/fei-template.tex
+ texmf-dist/doc/latex/fei/fei.pdf details="Package documentation" language="pt-br"
+ texmf-dist/doc/latex/fei/referencias.bib
+srccontainersize 29936
+srccontainerchecksum 1e9f70e9fe26fb0f5915fa9e9aa1bb5debde0f43a75abe64d9490de3d857f167dc19c9f215376fba3db7b1a9d2ff4a67e4c2d0708149b122afaae0e785c32a27
+srcfiles size=28
+ texmf-dist/source/latex/fei/fei.dtx
+ texmf-dist/source/latex/fei/fei.ins
+runfiles size=6
+ texmf-dist/tex/latex/fei/fei.cls
+catalogue-contact-bugs http://github.com/douglasrizzo/Classe-Latex-FEI/issues
+catalogue-contact-repository http://github.com/douglasrizzo/Classe-Latex-FEI/
+catalogue-contact-support https://groups.google.com/forum/#!forum/grupo-latex-fei
+catalogue-ctan /macros/latex/contrib/fei
+catalogue-date 2019-10-08 22:03:54 +0200
+catalogue-license lppl1.3c
+catalogue-topics dissertation class
+catalogue-version 4.6

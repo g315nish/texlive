@@ -1,0 +1,38 @@
+name biblatex-manuscripts-philology
+category Package
+revision 52255
+shortdesc Manage classical manuscripts with BibLaTeX
+longdesc The package adds a new entry type: @manuscript to manage
+longdesc manuscript in classical philology, for example to prepare a
+longdesc critical edition.
+containersize 4668
+containerchecksum 47fe3d91435d47fb5a5b0c0fb1a7c98cecaca3a44f03446e17f9be3ab4239bee5b2f2413ae8aef1beaa879256bb84db965b38f5cf2c6f2619b0efe2975506bdb
+doccontainersize 143456
+doccontainerchecksum da2356f81c1f02ac33bf7d34c01e0d68d0567766ec562298761edf949d8e0dd0b6c486ad99924811242af09616a4d055385546734023f80a164830ac605dd96c
+docfiles size=46
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/README details="Readme"
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/biblatex-manuscripts-philology-example.bib
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/biblatex-manuscripts-philology-example.pdf details="Example of use"
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/biblatex-manuscripts-philology-example.tex
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/biblatex-manuscripts-philology.pdf details="Package documentation"
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/biblatex-manuscripts-philology.tex
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/documentation/makefile
+ texmf-dist/doc/latex/biblatex-manuscripts-philology/makefile
+runfiles size=12
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/english-manuscripts.lbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/french-manuscripts.lbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/italian-manuscripts.lbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts-NewBibliographyString.sty
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts-noautoshorthand.bbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts-noautoshorthand.dbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts-shared.bbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts-shared.dbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts.bbx
+ texmf-dist/tex/latex/biblatex-manuscripts-philology/manuscripts.dbx
+catalogue-contact-bugs https://github.com/maieul/biblatex-manuscripts-philology/issues
+catalogue-contact-repository https://github.com/maieul/biblatex-manuscripts-philology
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-manuscripts-philology
+catalogue-date 2019-10-02 20:47:34 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex humanities
+catalogue-version 2.1.1

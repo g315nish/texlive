@@ -1,0 +1,60 @@
+name hithesis
+category Package
+revision 50062
+shortdesc Harbin Institute of Technology Thesis Template
+longdesc hithesis is a LaTeX thesis template package for Harbin
+longdesc Institute of Technolog supporting bachelor, master, doctor
+longdesc dissertations.
+containersize 25864
+containerchecksum 987d14e74f7adb87acc5b9ca44ffcda67872657f48ce421a13a028b7cde886ce6ae70d504d6684f42ec03774b6d1012a7fee11616b9f66ce6d989a2c4594e2cf
+doccontainersize 971788
+doccontainerchecksum 18fe3f3b8892f69354caa043944fc6dad88b0f468506acbeb08eaa0b220dfee44af5ebd2470e70814205d07541b2eb3ad93532dbf0c1c1b544591eda81e05da8
+docfiles size=302
+ texmf-dist/doc/latex/hithesis/README.md details="Readme"
+ texmf-dist/doc/latex/hithesis/back/acknowledgements.tex
+ texmf-dist/doc/latex/hithesis/back/appA.tex
+ texmf-dist/doc/latex/hithesis/back/appendix01.tex
+ texmf-dist/doc/latex/hithesis/back/ceindex.tex
+ texmf-dist/doc/latex/hithesis/back/conclusion.tex
+ texmf-dist/doc/latex/hithesis/back/publications.tex
+ texmf-dist/doc/latex/hithesis/back/resume.tex
+ texmf-dist/doc/latex/hithesis/body/introduction.tex
+ texmf-dist/doc/latex/hithesis/dtx-style.sty
+ texmf-dist/doc/latex/hithesis/figures/bthesistitle.eps
+ texmf-dist/doc/latex/hithesis/figures/golfer.eps
+ texmf-dist/doc/latex/hithesis/figures/hitlogo.eps
+ texmf-dist/doc/latex/hithesis/front/cover.tex
+ texmf-dist/doc/latex/hithesis/front/denotation.tex
+ texmf-dist/doc/latex/hithesis/hithesis.pdf details="Package documentation (Chinese)" language="zh"
+ texmf-dist/doc/latex/hithesis/latexmkrc
+ texmf-dist/doc/latex/hithesis/main.pdf
+ texmf-dist/doc/latex/hithesis/main.tex
+ texmf-dist/doc/latex/hithesis/reference.bib
+ texmf-dist/doc/latex/hithesis/wct1.eps
+ texmf-dist/doc/latex/hithesis/wct10.eps
+ texmf-dist/doc/latex/hithesis/wct5.eps
+ texmf-dist/doc/latex/hithesis/zfb.eps
+srccontainersize 58512
+srccontainerchecksum 9d77eeacbc6738862aeaf12b9af9f9474c90bd2a916e06fe4eed26743101eeea48e64508cb2ac29cb7abe9de56f1d187e4f84d89d0fe8408dbc4c878ef6587dd
+srcfiles size=62
+ texmf-dist/source/latex/hithesis/Makefile
+ texmf-dist/source/latex/hithesis/hithesis.dtx
+ texmf-dist/source/latex/hithesis/hithesis.ins
+runfiles size=53
+ texmf-dist/bibtex/bst/hithesis/hithesis.bst
+ texmf-dist/makeindex/hithesis/hithesis.ist
+ texmf-dist/tex/latex/hithesis/ctex-fontset-siyuan.def
+ texmf-dist/tex/latex/hithesis/hithesis.cfg
+ texmf-dist/tex/latex/hithesis/hithesis.cls
+ texmf-dist/tex/latex/hithesis/hithesis.sty
+catalogue-contact-announce https://github.com/dustincys
+catalogue-contact-bugs https://github.com/dustincys/hithesis/issues
+catalogue-contact-development https://github.com/dustincys
+catalogue-contact-home https://github.com/dustincys/hithesis
+catalogue-contact-repository https://github.com/dustincys
+catalogue-contact-support https://github.com/dustincys/hithesis/issues
+catalogue-ctan /macros/latex/contrib/hithesis
+catalogue-date 2019-02-19 14:16:02 +0100
+catalogue-license lppl1.3a
+catalogue-topics dissertation
+catalogue-version 2.0.6

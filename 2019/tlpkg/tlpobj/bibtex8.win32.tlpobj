@@ -1,0 +1,8 @@
+name bibtex8.win32
+category TLCore
+revision 50254
+shortdesc win32 files of bibtex8
+containersize 143772
+containerchecksum 19e10048893f2ec4f4b01d550a797b43fcf8262322593dc2b81959093a2385af7f929216b798ada47248fb6dd26c4560fb571f5ebab51eff26457c90ea629915
+binfiles arch=win32 size=79
+ bin/win32/bibtex8.exe

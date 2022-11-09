@@ -1,0 +1,63 @@
+name alterqcm
+category Package
+revision 51446
+shortdesc Multiple choice questionnaires in two column tables
+longdesc Macros to support the creation of multiple-choice
+longdesc questionnaires in two-column tables.
+containersize 5612
+containerchecksum da1bf55dd283082c5407b8ef8654f5da1b4f2adff120aeb7f2dad556dc01df18a0da16246e2b8b0242579e9fcc44fe0f4e43e8e6f9fea4ef2c67426699fdb3ec
+doccontainersize 1733680
+doccontainerchecksum b7016f6129e46475d46f0e19bd14604821e2a892ab29963710dee2c404d87f6aa36eaf978535e297333d85b8fc21bb312d44d36fb3fe13422a62c854ec767524
+docfiles size=610
+ texmf-dist/doc/latex/alterqcm/README details="Readme" language="en"
+ texmf-dist/doc/latex/alterqcm/README.doc
+ texmf-dist/doc/latex/alterqcm/article_post.pdf
+ texmf-dist/doc/latex/alterqcm/doc_aq-screen.pdf details="Package documentation (French)" language="fr"
+ texmf-dist/doc/latex/alterqcm/examples/latex/AntillesESjuin2006.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/alea.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/annexe.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/correct.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/example_1.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/example_2.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/example_3.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/language.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/points.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/sep.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/transparent-final.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/transparent-init.tex
+ texmf-dist/doc/latex/alterqcm/examples/latex/verb.tex
+ texmf-dist/doc/latex/alterqcm/examples/pdf/AntillesESjuin2006.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/alea.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/annexe.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/correct.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/doc_aq.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/example_1.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/example_2.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/example_3.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/language.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/points.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/sep.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/transparent-final.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/transparent-init.pdf
+ texmf-dist/doc/latex/alterqcm/examples/pdf/verb.pdf
+ texmf-dist/doc/latex/alterqcm/latex/180px-Gustave_Moreau_007.jpg
+ texmf-dist/doc/latex/alterqcm/latex/240px-Mort_du_fossoyeur.jpg
+ texmf-dist/doc/latex/alterqcm/latex/The_Wounded_Angel_-_Hugo_Simberg.jpg
+ texmf-dist/doc/latex/alterqcm/latex/aq.ist
+ texmf-dist/doc/latex/alterqcm/latex/article_post.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-def.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-excomp.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-globales.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-installation.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-locales.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-mc.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-points.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc-aq-problem.tex
+ texmf-dist/doc/latex/alterqcm/latex/doc_aq-main.tex
+runfiles size=6
+ texmf-dist/tex/latex/alterqcm/alterqcm.sty
+catalogue-ctan /macros/latex/contrib/alterqcm
+catalogue-date 2019-06-24 18:35:47 +0200
+catalogue-license lpplgpl
+catalogue-topics exam
+catalogue-version 4.1

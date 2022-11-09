@@ -1,0 +1,9 @@
+name dviout-util.win32
+category Package
+revision 50155
+shortdesc win32 files of dviout-util
+containersize 89592
+containerchecksum b21aced38a2602f104a50262169f3ab49ee58fa07b63cc879db947eaddb2e573fb347f9d9e83f64e6b06614ebfc5d7da060506126371bafd9c4707867beaf7fd
+binfiles arch=win32 size=53
+ bin/win32/chkdvifont.exe
+ bin/win32/dvispc.exe

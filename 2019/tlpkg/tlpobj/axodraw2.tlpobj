@@ -1,0 +1,51 @@
+name axodraw2
+category Package
+revision 52058
+shortdesc Feynman diagrams in a LaTeX document
+longdesc This package defines macros for drawing Feynman graphs in LaTeX
+longdesc documents. It is an important update of the axodraw package,
+longdesc but since it is not completely backwards compatible, we have
+longdesc given the style file a changed name. Many new features have
+longdesc been added, with new types of line, and much more flexibility
+longdesc in their properties. In addition, it is now possible to use
+longdesc axodraw2 with pdfLaTeX, as well as with the LaTeX-dvips method.
+longdesc However with pdfLaTeX (and also LuaLaTeX and XeLaTeX), an
+longdesc external program, axohelp, is used to perform the geometrical
+longdesc calculations needed for the pdf code inserted in the output
+longdesc file. The processing involves a run of pdfLaTeX, a run of
+longdesc axohelp, and then another run of pdfLaTeX.
+depend axodraw2.ARCH
+containersize 25608
+containerchecksum 085aa45989c7a452f64d3999e94806fa01120aef36e5a97d133f65e56eb0348aee3b75a871bd5ac460df47e4d77de3db930512a833da4ffda6722a314ff51f86
+doccontainersize 481188
+doccontainerchecksum b30b2fa595920e28c0b25ac69f4d91b724bc12059bc10450cb8f5d87cfedc19ac6d0f0177d5c97d42509c5db016202910a34de5c0c30cc9f148b5407ca9ad23c
+docfiles size=167
+ texmf-dist/doc/latex/axodraw2/AUTHORS
+ texmf-dist/doc/latex/axodraw2/COPYING
+ texmf-dist/doc/latex/axodraw2/ChangeLog
+ texmf-dist/doc/latex/axodraw2/INSTALL
+ texmf-dist/doc/latex/axodraw2/README details="Readme"
+ texmf-dist/doc/latex/axodraw2/axodraw2-man.pdf details="Package documentation"
+ texmf-dist/doc/latex/axodraw2/axodraw2-man.tex
+ texmf-dist/doc/latex/axodraw2/example.tex
+ texmf-dist/doc/man/man1/axohelp.1
+ texmf-dist/doc/man/man1/axohelp.man1.pdf
+srccontainersize 33984
+srccontainerchecksum 0680c1e0bf7818b59c9ee9ad0eb25c41abbe82ecce334486dd2f960f1dd1f5edae2e509ffe0a29d66aba961c062ebd257ac9fd03fbc37289540c1bbc809e343e
+srcfiles size=76
+ texmf-dist/source/latex/axodraw2/Makefile.am
+ texmf-dist/source/latex/axodraw2/axohelp-big.test
+ texmf-dist/source/latex/axodraw2/axohelp.c
+ texmf-dist/source/latex/axodraw2/axohelp.test
+ texmf-dist/source/latex/axodraw2/configure.ac
+ texmf-dist/source/latex/axodraw2/test-big.ax1
+ texmf-dist/source/latex/axodraw2/test-big.ax2-std
+ texmf-dist/source/latex/axodraw2/test.ax1
+ texmf-dist/source/latex/axodraw2/test.ax2-std
+runfiles size=34
+ texmf-dist/tex/latex/axodraw2/axodraw2.sty
+catalogue-ctan /graphics/axodraw2
+catalogue-date 2019-09-06 08:17:06 +0200
+catalogue-license gpl3
+catalogue-topics physics graphics-in-tex
+catalogue-version 2.1.1b

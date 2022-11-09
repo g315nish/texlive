@@ -1,0 +1,42 @@
+name hypdvips
+category Package
+revision 51798
+shortdesc Hyperref extensions for use with dvips
+longdesc The hypdvips package fixes some problems when using hyperref
+longdesc with dvips. It also adds support for breaking links, file
+longdesc attachments, embedded documents and different types of
+longdesc GoTo-links. The cooperation of hyperref with cleveref is
+longdesc improved, which in addition allows an enhanced back-referencing
+longdesc system.
+containersize 24048
+containerchecksum da692cfec4c9989b313326cf32c00a2602413da7a01b1bd7557ce5bf982fde071e1e4ca6613f0e2c7ff74b53a8edd5cc88c2b8ccc681ea94a46a5ccf97f2d3bc
+doccontainersize 825788
+doccontainerchecksum 40c8126cb0fe0ee748afe0c46f80fa3a01cb52142b3d8e06168877b8e08a7d35c80e555322ef97ada73f17f649e50ded340836d33eba3d9560143e7f64abe2a3
+docfiles size=475
+ texmf-dist/doc/latex/hypdvips/README details="Readme"
+ texmf-dist/doc/latex/hypdvips/hypdvips.pdf details="Package documentation"
+ texmf-dist/doc/latex/hypdvips/images/example1.eps
+ texmf-dist/doc/latex/hypdvips/images/example2.eps
+ texmf-dist/doc/latex/hypdvips/images/example3.eps
+ texmf-dist/doc/latex/hypdvips/images/example4.eps
+ texmf-dist/doc/latex/hypdvips/images/example5.eps
+ texmf-dist/doc/latex/hypdvips/images/example6.eps
+ texmf-dist/doc/latex/hypdvips/images/example7.eps
+ texmf-dist/doc/latex/hypdvips/images/graph.eps
+ texmf-dist/doc/latex/hypdvips/images/icon_draft.eps
+ texmf-dist/doc/latex/hypdvips/images/ids.eps
+ texmf-dist/doc/latex/hypdvips/images/logfile.eps
+ texmf-dist/doc/latex/hypdvips/images/openmsg_six.eps
+ texmf-dist/doc/latex/hypdvips/images/openmsg_sixinbrowser.eps
+ texmf-dist/doc/latex/hypdvips/images/paperclip.eps
+ texmf-dist/doc/latex/hypdvips/images/pushpin.eps
+ texmf-dist/doc/latex/hypdvips/images/tag.eps
+ texmf-dist/doc/latex/hypdvips/manifest.txt
+runfiles size=29
+ texmf-dist/tex/latex/hypdvips/hypdvips.sty
+catalogue-also breakurl
+catalogue-ctan /macros/latex/contrib/hypdvips
+catalogue-date 2019-08-01 10:18:58 +0200
+catalogue-license lppl1.3
+catalogue-topics hyper
+catalogue-version 3.03

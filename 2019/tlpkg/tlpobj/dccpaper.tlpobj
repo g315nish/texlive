@@ -1,0 +1,38 @@
+name dccpaper
+category Package
+revision 52310
+shortdesc Typeset papers for the International Journal of Digital Curation
+longdesc The LaTeX class ijdc-v9 produces camera-ready papers and
+longdesc articles suitable for inclusion in the International Journal of
+longdesc Digital Curation, with applicability from volume 9 onwards. The
+longdesc similar idcc class can be used for submissions to the
+longdesc International Digital Curation Conference, beginning with the
+longdesc 2015 conference.
+containersize 24732
+containerchecksum fe202a6540c5e95f4c2b2914409081499d31f4ddff41c9d7d25630d00b3dbb3bc7fb2bac4bf9ce17b67867561d8eee8625d849da1ede2e51f706ffec21fa081a
+doccontainersize 250664
+doccontainerchecksum 59765c9239c6ff8b263b3e819fd26c7bed841279394948fe902bdd5c5364fbce08120db366abf2b90fc8364933cedb834f982d4609e1f2d9686bbca341e3816f
+docfiles size=68
+ texmf-dist/doc/latex/dccpaper/README.md details="Readme"
+ texmf-dist/doc/latex/dccpaper/dccpaper-apacite.bib
+ texmf-dist/doc/latex/dccpaper/dccpaper-biblatex.bib
+ texmf-dist/doc/latex/dccpaper/dccpaper.pdf details="Package documentation"
+srccontainersize 26672
+srccontainerchecksum 41b0b7f978c0bf5109c976a76b593473f492090a5f392d640377c24a034c26a5829b28e317944876287b9a0a092f47f3ce85195bfad7b4d2aa41ca226abe80d3
+srcfiles size=26
+ texmf-dist/source/latex/dccpaper/Makefile
+ texmf-dist/source/latex/dccpaper/dccpaper.dtx
+ texmf-dist/source/latex/dccpaper/dccpaper.ins
+runfiles size=25
+ texmf-dist/tex/latex/dccpaper/dccpaper-base.sty
+ texmf-dist/tex/latex/dccpaper/dccpaper-by.eps
+ texmf-dist/tex/latex/dccpaper/dccpaper-by.pdf
+ texmf-dist/tex/latex/dccpaper/idcc.cls
+ texmf-dist/tex/latex/dccpaper/ijdc-v9.cls
+catalogue-contact-bugs https://github.com/DigitalCurationCentre/dccpaper/issues
+catalogue-contact-repository https://github.com/DigitalCurationCentre/dccpaper
+catalogue-ctan /macros/latex/contrib/dccpaper
+catalogue-date 2019-10-07 20:08:22 +0200
+catalogue-license lppl1.3ccc-by-4
+catalogue-topics journalpub confproc class
+catalogue-version 1.8.1

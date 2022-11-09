@@ -1,0 +1,9 @@
+name epspdf.win32
+category Package
+revision 47104
+shortdesc win32 files of epspdf
+containersize 5252
+containerchecksum 7789518dfb9beaabaada4318b9a0773f77eef279a15d3078cd2d6fd0733ee543fa3849e2c254d4b109161f0996068a45b3ab15eabd90e6ad65a44b3ac4a3447c
+binfiles arch=win32 size=4
+ bin/win32/epspdf.exe
+ bin/win32/epspdftk.exe

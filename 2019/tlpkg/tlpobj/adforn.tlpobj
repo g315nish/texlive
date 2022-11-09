@@ -1,0 +1,33 @@
+name adforn
+category Package
+revision 52265
+shortdesc OrnementsADF font with TeX/LaTeX support
+longdesc The bundle provides the Ornements ADF font in PostScript type 1
+longdesc format with TeX/LaTeX support files. The font is licensed under
+longdesc GPL v2 or later with font exception. (See NOTICE, COPYING,
+longdesc README.) The TeX/LaTeX support is licensed under LPPL. (See
+longdesc README, manifest.txt.)
+execute addMap OrnementsADF.map
+containersize 36512
+containerchecksum 116d186caba7d64318f69dd0cf6f54a52890a23c880ce9e47576f5eed23c01e33cfedef8addebcee1c9fd42fa66c03f9f575e988c09a999528307933c10e2b52
+doccontainersize 11236
+doccontainerchecksum 7670786aceb0607ef3ad86831ddc6197e1f24f36894a7e8b4b18d797ea953882b84e7ac7b06da797d30b8390bd96072c257a6ccb97ab3ce7d5e84e36ed8690b1
+docfiles size=12
+ texmf-dist/doc/fonts/adforn/COPYING
+ texmf-dist/doc/fonts/adforn/NOTICE
+ texmf-dist/doc/fonts/adforn/README details="Readme"
+ texmf-dist/doc/fonts/adforn/adforn.tex
+ texmf-dist/doc/fonts/adforn/manifest.txt
+runfiles size=17
+ texmf-dist/fonts/afm/arkandis/adforn/OrnementsADF.afm
+ texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc
+ texmf-dist/fonts/map/dvips/adforn/OrnementsADF.map
+ texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
+ texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
+ texmf-dist/tex/latex/adforn/adforn.sty
+ texmf-dist/tex/latex/adforn/uornementsadf.fd
+catalogue-ctan /fonts/adforn
+catalogue-date 2019-10-03 06:24:14 +0200
+catalogue-license lpplgpl2
+catalogue-topics font font-ornmnt font-type1
+catalogue-version 1.1a

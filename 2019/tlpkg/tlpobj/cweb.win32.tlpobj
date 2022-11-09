@@ -1,0 +1,12 @@
+name cweb.win32
+category Package
+revision 50155
+shortdesc win32 files of cweb
+containersize 70872
+containerchecksum 49d94808189c96db45bdd404df2e5cbbf107cf127799c7863606d7223e292fc714d5a69a5b4aded4769ead46d32a3be3cec32194403aee198ac12b3771b6f312
+binfiles arch=win32 size=56
+ bin/win32/ctangle.exe
+ bin/win32/ctwill-refsort.exe
+ bin/win32/ctwill-twinx.exe
+ bin/win32/ctwill.exe
+ bin/win32/cweave.exe
